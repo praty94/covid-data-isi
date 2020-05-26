@@ -2,91 +2,140 @@
     "data": {
         "headers": [
             " ",
-            "Last Week",
-            "This week",
+            "WEEK (12-18 May)",
+            "WEEK (19-25 May)",
             "Change"
         ],
-        "content": [
-            {
-                "name": "Average number of confirmed cases/day",
-                "values": [
-                    3204,
-                    3735,
-                    1.17
-                ]
-            },
-            {
-                "name": "Average number recovered/day",
-                "values": [
-                    1123,
-                    1764,
-                    1.57
-                ]
-            },
-            {
-                "name": "Cases/recovery",
-                "values": [
-                    2.91,
-                    2.15,
-                    0.74
-                ]
-            },
-            {
-                "name": "Average number tested/day",
-                "values": [
-                    78122,
-                    87295,
-                    1.12
-                ]
-            },
-            {
-                "name": "Proportion +ve",
-                "values": [
-                    0.0412,
-                    0.0437,
-                    1.06
-                ]
-            },
-            {
-                "name": "Average number of active cases/day",
-                "values": [
-                    1973,
-                    1862,
-                    0.94
-                ]
-            },
-            {
-                "name": "Active cases/ICU beds",
-                "values": [
-                    0.322,
-                    0.4357,
-                    1.35
-                ]
-            },
-            {
-                "name": "Recovery proportion",
-                "values": [
-                    "35.15%",
-                    "47.43%",
-                    1.35
-                ]
-            },            
-            {
-                "name": "Average number of Deaths/day",
-                "values": [
-                    108,
-                    110,
-                    1.02
-                ]
-            },
-            {
-                "name": "Death proportion",
-                "values": [
-                    "3.43%",
-                    "2.96%",
-                    0.86
-                ]
-            }
-        ]
+        "content": {
+            "countryData": [
+                {
+                    "name": "Average number of confirmed cases/day",
+                    "values": [
+                        3204,
+                        3735,
+                        1.17
+                    ]
+                },
+                {
+                    "name": "Average number recovered/day",
+                    "values": [
+                        1123,
+                        1764,
+                        1.57
+                    ]
+                },
+                {
+                    "name": "Cases/recovery",
+                    "values": [
+                        2.91,
+                        2.15,
+                        0.74
+                    ]
+                },
+                {
+                    "name": "Average number tested/day",
+                    "values": [
+                        78122,
+                        87295,
+                        1.12
+                    ]
+                },
+                {
+                    "name": "Proportion +ve",
+                    "values": [
+                        0.0412,
+                        0.0437,
+                        1.06
+                    ]
+                },
+                {
+                    "name": "Average number of active cases/day",
+                    "values": [
+                        1973,
+                        1862,
+                        0.94
+                    ]
+                },
+                {
+                    "name": "Active cases/ICU beds",
+                    "values": [
+                        0.322,
+                        0.4357,
+                        1.35
+                    ]
+                },
+                {
+                    "name": "Recovery proportion",
+                    "values": [
+                        "35.15%",
+                        "47.43%",
+                        1.35
+                    ]
+                },
+                {
+                    "name": "Average number of Deaths/day",
+                    "values": [
+                        108,
+                        110,
+                        1.02
+                    ]
+                },
+                {
+                    "name": "Death proportion",
+                    "values": [
+                        "3.43%",
+                        "2.96%",
+                        0.86
+                    ]
+                }
+            ],
+            "stateData": [
+                {
+                    "name": "Maharastra",
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/day",
+                            "values": [
+                                11657,
+                                17609,
+                                51.06
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                18.94,
+                                17.18,
+                                -9.29
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "3.56%",
+                                "3.22%",
+                                "-9.55"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                2.66,
+                                2.4,
+                                null
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.083,
+                                null
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
     }
 }
