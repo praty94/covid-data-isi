@@ -4,7 +4,7 @@
             " ",
             "WEEK (12-18 May)",
             "WEEK (19-25 May)",
-            "Change"
+            "Change (%)"
         ],
         "content": {
             "countryData": [
@@ -54,14 +54,6 @@
                         1973,
                         1862,
                         0.94
-                    ]
-                },
-                {
-                    "name": "Active cases/ICU beds",
-                    "values": [
-                        0.322,
-                        0.4357,
-                        1.35
                     ]
                 },
                 {
@@ -130,6 +122,501 @@
                             "values": [
                                 null,
                                 0.083,
+                                null
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Gujarat",
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/day",
+                            "values": [
+                                3204,
+                                2722,
+                                -15.04
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                11.25,
+                                7.47,
+                                -33.60
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "5.91%",
+                                "6.14%",
+                                "3.89"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                1.54,
+                                1.49,
+                                null
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.091,
+                                null
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Rajasthan",
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/day",
+                            "values": [
+                                1519,
+                                1789,
+                                17.77
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                1.94,
+                                2.33,
+                                20.10
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "2.51%",
+                                "2.29%",
+                                "-8.76"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                1.93,
+                                2.17,
+                                null
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.21,
+                                null
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Delhi",
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/day",
+                            "values": [
+                                2821,
+                                3999,
+                                41.76
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                5.88,
+                                9.76,
+                                65.99
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "1.59%",
+                                "1.96%",
+                                "23.27"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                1.47,
+                                1.75,
+                                null
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.63,
+                                null
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Tamil Nadu",
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/day",
+                            "values": [
+                                3758,
+                                5322,
+                                41.62
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                4.73,
+                                5.63,
+                                19.03
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "0.70%",
+                                "0.70%",
+                                "0.00"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                1.36,
+                                1.23,
+                                null
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.421,
+                                null
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Uttar Pradesh",
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/day",
+                            "values": [
+                                3758,
+                                5322,
+                                41.62
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                2.13,
+                                3.06,
+                                43.66
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "2.56%",
+                                "2.60%",
+                                "1.56"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                1.54,
+                                2.16,
+                                null
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.1467,
+                                null
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Madhya Pradesh",
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/day",
+                            "values": [
+                                1451,
+                                1623,
+                                11.85
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                4.16,
+                                4.47,
+                                7.45
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "4.83%",
+                                "4.39%",
+                                "-9.11"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                1.69,
+                                1.43,
+                                null
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.0384,
+                                null
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "West Bengal",
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/day",
+                            "values": [
+                                761,
+                                992,
+                                30.35
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                2.32,
+                                1.7,
+                                -26.72
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "8.64%",
+                                "7.29%",
+                                "-15.63"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                1.92,
+                                2.43,
+                                null
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.13,
+                                null
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Kerala",
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/day",
+                            "values": [
+                                111,
+                                266,
+                                139.64
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                0.965,
+                                1.36,
+                                40.93
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "0.63%",
+                                "0.67%",
+                                "6.35"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                8.77,
+                                7.6,
+                                null
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.4285,
+                                null
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Karnataka",
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/day",
+                            "values": [
+                                384,
+                                936,
+                                143.75
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                0.85,
+                                1.3,
+                                52.94
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "2.97%",
+                                "2.02%",
+                                "-31.99"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                4.73,
+                                5.35,
+                                null
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.2,
+                                null
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Andhra Pradesh",
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/day",
+                            "values": [
+                                414,
+                                454,
+                                9.66
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                0.43,
+                                0.55,
+                                27.91
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "2.06%",
+                                "1.94%",
+                                "-5.83"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                0.97,
+                                1.34,
+                                null
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.46,
+                                null
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Telangana",
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/day",
+                            "values": [
+                                317,
+                                328,
+                                3.47
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                4.12,
+                                4.37,
+                                6.07
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "2.14%",
+                                "2.92%",
+                                "36.45"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                1.78,
+                                2.02,
+                                null
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.2121,
                                 null
                             ]
                         }
