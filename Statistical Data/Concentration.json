@@ -1,58 +1,54 @@
 {
-  "heading":"It is defined as (Number of districts having atleast 75% of total confirmed cases in that state) / (total number districts in that state) , ie. Lower value of concentration indicates that cases are concentrated in few districts only.(lower concentration implies less spread)",
+  "heading":"For a particular state it is defined as {(No. of districts in that state) * (Gini score of that state)}/(No. of districts in that state-1)",
   "data": {
     "stateData": [
       {
         "stateName": "Andhra Pradesh",
-        "concentration": 0.4615
-      },
-      {
-        "stateName": "Delhi",
-        "concentration": 0.63
+        "concentration": 0.52
       },
       {
         "stateName": "Gujarat",
-        "concentration": 0.091
+        "concentration": 0.91
       },
       {
         "stateName": "Jammu & Kashmir",
-        "concentration": 0.33
+        "concentration": 0.57
       },
       {
         "stateName": "Karnataka",
-        "concentration": 0.2
+        "concentration": 0.51
       },
       {
         "stateName": "Kerala",
-        "concentration": 0.4285
+        "concentration": 0.45
       },
       {
         "stateName": "Madhya Pradesh",
-        "concentration": 0.0384
+        "concentration": 0.52
       },
       {
         "stateName": "Maharashtra",
-        "concentration": 0.083
+        "concentration": 0.91
       },
       {
         "stateName": "Rajasthan",
-        "concentration": 0.2121
+        "concentration": 0.67
       },
       {
         "stateName": "Tamil Nadu",
-        "concentration": 0.421
+        "concentration": 0.83
       },
       {
         "stateName": "Telangana",
-        "concentration": 0.2121
+        "concentration": 0.86
       },
       {
         "stateName": "Uttar Pradesh",
-        "concentration": 0.1467
+        "concentration": 0.55
       },
       {
-        "stateName": "West Bengal",
-        "concentration": 0.13
+        "stateName": "Haryana",
+        "concentration": 0.62
       }
     ]
   }
