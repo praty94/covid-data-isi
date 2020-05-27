@@ -49,6 +49,10 @@
       {
         "stateName": "Haryana",
         "concentration": 0.62
+      },
+      {
+        "stateName": "West Bengal",
+        "concentration": 0.83
       }
     ]
   }
