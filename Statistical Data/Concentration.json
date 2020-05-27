@@ -1,5 +1,5 @@
 {
-  "heading":"For a particular state it is defined as {(No. of districts in that state) * (Gini score of that state)}/(No. of districts in that state-1)",
+  "heading":"For a particular state it is defined as {(No. of districts in that state) * (Gini score of that state)}/(No. of districts in that state-1). Higher value of concentration indicates that cases are concentrated in few districts only.(Higher concentration implies less spread)",
   "data": {
     "stateData": [
       {
