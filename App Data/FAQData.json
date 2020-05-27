@@ -1,7 +1,7 @@
 {
     "data":[
         {
-            "question":"Can I download the analysis report ?",
+            "question":"Can I download the analysis report?",
             "answer":"Yes, the analysis report can be downloaded as csv file and graph can be downloaded as png file."
         },
         {
@@ -18,7 +18,7 @@
         },
         {
             "question":"What is concentration? Why is it calculated?",
-            "answer":"For a particular state it is (Number of districts having atleat  75% of  cases) / (total number of districts in that state) , ie. Lower value of concentration indicates that cases are concentrated in few districts only.It can be used to check the spread of the pandemic, lower concentration implies less spread."
+            "answer":"For a particular state it is defined as {(No. of districts in that state) * (Gini score of that state)}/(No. of districts in that state-1). Higher value of concentration indicates that cases are concentrated in few districts only. Higher concentration implies less spread"
         },
         {
             "question":"What are your data sources? How is the data gathered for this project?",
