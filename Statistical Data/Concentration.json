@@ -53,6 +53,14 @@
       {
         "stateName": "West Bengal",
         "concentration": 0.83
+      },
+      {
+        "stateName": "Punjab",
+        "concentration": 0.39
+      },
+      {
+        "stateName": "Delhi",
+        "concentration": 0.5
       }
     ]
   }
