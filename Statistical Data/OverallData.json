@@ -81,9 +81,8 @@
                     ]
                 }
             ],
-            "stateData": [
-                {
-                    "name": "Maharastra",
+            "stateData": {
+                "Maharastra":{
                     "data": [
                         {
                             "name": "Average number of confirmed cases/day",
@@ -127,8 +126,7 @@
                         }
                     ]
                 },
-                {
-                    "name": "Gujarat",
+                "Gujarat":{
                     "data": [
                         {
                             "name": "Average number of confirmed cases/day",
@@ -172,8 +170,7 @@
                         }
                     ]
                 },
-                {
-                    "name": "Rajasthan",
+                "Rajasthan":{
                     "data": [
                         {
                             "name": "Average number of confirmed cases/day",
@@ -217,8 +214,7 @@
                         }
                     ]
                 },
-                {
-                    "name": "Delhi",
+                "Delhi":{
                     "data": [
                         {
                             "name": "Average number of confirmed cases/day",
@@ -262,8 +258,7 @@
                         }
                     ]
                 },
-                {
-                    "name": "Tamil Nadu",
+                "Tamil Nadu":{
                     "data": [
                         {
                             "name": "Average number of confirmed cases/day",
@@ -307,8 +302,7 @@
                         }
                     ]
                 },
-                {
-                    "name": "Uttar Pradesh",
+                "Uttar Pradesh":{
                     "data": [
                         {
                             "name": "Average number of confirmed cases/day",
@@ -352,8 +346,7 @@
                         }
                     ]
                 },
-                {
-                    "name": "Madhya Pradesh",
+                "Madhya Pradesh":{
                     "data": [
                         {
                             "name": "Average number of confirmed cases/day",
@@ -397,8 +390,7 @@
                         }
                     ]
                 },
-                {
-                    "name": "West Bengal",
+                "West Bengal":{
                     "data": [
                         {
                             "name": "Average number of confirmed cases/day",
@@ -442,8 +434,7 @@
                         }
                     ]
                 },
-                {
-                    "name": "Kerala",
+                "Kerala":{
                     "data": [
                         {
                             "name": "Average number of confirmed cases/day",
@@ -487,8 +478,7 @@
                         }
                     ]
                 },
-                {
-                    "name": "Karnataka",
+                "Karnataka":{
                     "data": [
                         {
                             "name": "Average number of confirmed cases/day",
@@ -532,8 +522,7 @@
                         }
                     ]
                 },
-                {
-                    "name": "Andhra Pradesh",
+                "Andhra Pradesh":{
                     "data": [
                         {
                             "name": "Average number of confirmed cases/day",
@@ -577,8 +566,7 @@
                         }
                     ]
                 },
-                {
-                    "name": "Telangana",
+                "Telangana":{
                     "data": [
                         {
                             "name": "Average number of confirmed cases/day",
@@ -622,7 +610,7 @@
                         }
                     ]
                 }
-            ]
+            }
         }
     }
 }
