@@ -11,73 +11,33 @@
                 {
                     "name": "Average number of confirmed cases/day",
                     "values": [
-                        3204,
-                        3735,
-                        1.17
-                    ]
-                },
-                {
-                    "name": "Average number recovered/day",
-                    "values": [
-                        1123,
-                        1764,
-                        1.57
+                        4223,
+                        6374,
+                        50.95
                     ]
                 },
                 {
                     "name": "Cases/recovery",
                     "values": [
-                        2.91,
-                        2.15,
-                        0.74
+                        1.77,
+                        2.08,
+                        17.51
                     ]
                 },
                 {
-                    "name": "Average number tested/day",
+                    "name": "Proportion +ve Test (%)",
                     "values": [
-                        78122,
-                        87295,
-                        1.12
+                        4.37,
+                        5.0,
+                        14.42
                     ]
                 },
                 {
-                    "name": "Proportion +ve",
+                    "name": "Death Rate",
                     "values": [
-                        0.0412,
-                        0.0437,
-                        1.06
-                    ]
-                },
-                {
-                    "name": "Average number of active cases/day",
-                    "values": [
-                        1973,
-                        1862,
-                        0.94
-                    ]
-                },
-                {
-                    "name": "Recovery proportion",
-                    "values": [
-                        "35.15%",
-                        "47.43%",
-                        1.35
-                    ]
-                },
-                {
-                    "name": "Average number of Deaths/day",
-                    "values": [
-                        108,
-                        110,
-                        1.02
-                    ]
-                },
-                {
-                    "name": "Death proportion",
-                    "values": [
-                        "3.43%",
-                        "2.96%",
-                        0.86
+                        "3.14%",
+                        "2.88%",
+                        -8.28
                     ]
                 }
             ],
@@ -85,7 +45,7 @@
                 "Maharastra":{
                     "data": [
                         {
-                            "name": "Average number of confirmed cases/day",
+                            "name": "Average number of confirmed cases/week",
                             "values": [
                                 11657,
                                 17609,
@@ -111,16 +71,16 @@
                         {
                             "name": "Cases / recovery",
                             "values": [
-                                2.66,
+                                3.19,
                                 2.4,
-                                null
+                                -24.76
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.083,
+                                0.91,
                                 null
                             ]
                         }
@@ -129,7 +89,7 @@
                 "Gujarat":{
                     "data": [
                         {
-                            "name": "Average number of confirmed cases/day",
+                            "name": "Average number of confirmed cases/week",
                             "values": [
                                 3204,
                                 2722,
@@ -157,14 +117,14 @@
                             "values": [
                                 1.54,
                                 1.49,
-                                null
+                                -5.70
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.091,
+                                0.91,
                                 null
                             ]
                         }
@@ -173,7 +133,7 @@
                 "Rajasthan":{
                     "data": [
                         {
-                            "name": "Average number of confirmed cases/day",
+                            "name": "Average number of confirmed cases/week",
                             "values": [
                                 1519,
                                 1789,
@@ -201,14 +161,14 @@
                             "values": [
                                 1.93,
                                 2.17,
-                                null
+                                27.65
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.21,
+                                0.67,
                                 null
                             ]
                         }
@@ -217,7 +177,7 @@
                 "Delhi":{
                     "data": [
                         {
-                            "name": "Average number of confirmed cases/day",
+                            "name": "Average number of confirmed cases/week",
                             "values": [
                                 2821,
                                 3999,
@@ -245,14 +205,14 @@
                             "values": [
                                 1.47,
                                 1.75,
-                                null
+                                45.83
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.63,
+                                0.5,
                                 null
                             ]
                         }
@@ -261,7 +221,7 @@
                 "Tamil Nadu":{
                     "data": [
                         {
-                            "name": "Average number of confirmed cases/day",
+                            "name": "Average number of confirmed cases/week",
                             "values": [
                                 3758,
                                 5322,
@@ -289,14 +249,14 @@
                             "values": [
                                 1.36,
                                 1.23,
-                                null
+                                -22.64
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.421,
+                                0.83,
                                 null
                             ]
                         }
@@ -305,7 +265,7 @@
                 "Uttar Pradesh":{
                     "data": [
                         {
-                            "name": "Average number of confirmed cases/day",
+                            "name": "Average number of confirmed cases/week",
                             "values": [
                                 3758,
                                 5322,
@@ -333,14 +293,14 @@
                             "values": [
                                 1.54,
                                 2.16,
-                                null
+                                116.0
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.1467,
+                                0.55,
                                 null
                             ]
                         }
@@ -349,7 +309,7 @@
                 "Madhya Pradesh":{
                     "data": [
                         {
-                            "name": "Average number of confirmed cases/day",
+                            "name": "Average number of confirmed cases/week",
                             "values": [
                                 1451,
                                 1623,
@@ -377,14 +337,14 @@
                             "values": [
                                 1.69,
                                 1.43,
-                                null
+                                -32.23
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.0384,
+                                0.52,
                                 null
                             ]
                         }
@@ -393,7 +353,7 @@
                 "West Bengal":{
                     "data": [
                         {
-                            "name": "Average number of confirmed cases/day",
+                            "name": "Average number of confirmed cases/week",
                             "values": [
                                 761,
                                 992,
@@ -421,14 +381,14 @@
                             "values": [
                                 1.92,
                                 2.43,
-                                null
+                                62.0
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.13,
+                                0.83,
                                 null
                             ]
                         }
@@ -437,7 +397,7 @@
                 "Kerala":{
                     "data": [
                         {
-                            "name": "Average number of confirmed cases/day",
+                            "name": "Average number of confirmed cases/week",
                             "values": [
                                 111,
                                 266,
@@ -465,14 +425,14 @@
                             "values": [
                                 8.77,
                                 7.6,
-                                null
+                                -45.23
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.4285,
+                                0.45,
                                 null
                             ]
                         }
@@ -481,7 +441,7 @@
                 "Karnataka":{
                     "data": [
                         {
-                            "name": "Average number of confirmed cases/day",
+                            "name": "Average number of confirmed cases/week",
                             "values": [
                                 384,
                                 936,
@@ -509,14 +469,14 @@
                             "values": [
                                 4.73,
                                 5.35,
-                                null
+                                44.99
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.2,
+                                0.51,
                                 null
                             ]
                         }
@@ -525,7 +485,7 @@
                 "Andhra Pradesh":{
                     "data": [
                         {
-                            "name": "Average number of confirmed cases/day",
+                            "name": "Average number of confirmed cases/week",
                             "values": [
                                 414,
                                 454,
@@ -553,14 +513,14 @@
                             "values": [
                                 0.97,
                                 1.34,
-                                null
+                                81.08
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.46,
+                                0.52,
                                 null
                             ]
                         }
@@ -569,7 +529,7 @@
                 "Telangana":{
                     "data": [
                         {
-                            "name": "Average number of confirmed cases/day",
+                            "name": "Average number of confirmed cases/week",
                             "values": [
                                 317,
                                 328,
@@ -597,14 +557,190 @@
                             "values": [
                                 1.78,
                                 2.02,
-                                null
+                                28.66
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.2121,
+                                0.86,
+                                null
+                            ]
+                        }
+                    ]
+                },
+                "Punjab":{
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/week",
+                            "values": [
+                                103,
+                                101,
+                                -1.94
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                1.77,
+                                0.74,
+                                -58.19
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "1.87%",
+                                "1.92%",
+                                "2.67"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                0.074,
+                                0.28,
+                                278.38
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.39,
+                                null
+                            ]
+                        }
+                    ]
+                },
+                "Bihar":{
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/week",
+                            "values": [
+                                674,
+                                1314,
+                                94.96
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                3.62,
+                                6.87,
+                                89.78
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "0.63%",
+                                "0.48%",
+                                "-24.60"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                4.81,
+                                6.08,
+                                26.40
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.91,
+                                null
+                            ]
+                        }
+                    ]
+                },
+                "Haryana":{
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/week",
+                            "values": [
+                                198,
+                                285,
+                                43.94
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                0.92,
+                                0.94,
+                                2.17
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "1.50%",
+                                "1.32%",
+                                "-12.00"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                0.76,
+                                1.49,
+                                96.05
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.62,
+                                null
+                            ]
+                        }
+                    ]
+                },
+                "Jammu & Kashmir":{
+                    "data": [
+                        {
+                            "name": "Average number of confirmed cases/week",
+                            "values": [
+                                410,
+                                379,
+                                -7.56
+                            ]
+                        },
+                        {
+                            "name": "Proportion +ve Test(%)",
+                            "values": [
+                                0.68,
+                                1.07,
+                                57.35
+                            ]
+                        },
+                        {
+                            "name": "Death Rate",
+                            "values": [
+                                "1.16%",
+                                "1.38%",
+                                "18.97"
+                            ]
+                        },
+                        {
+                            "name": "Cases / recovery",
+                            "values": [
+                                2.25,
+                                1.9,
+                                -15.56
+                            ]
+                        },
+                        {
+                            "name": "Spread",
+                            "values": [
+                                null,
+                                0.57,
                                 null
                             ]
                         }
