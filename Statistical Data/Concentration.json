@@ -1,5 +1,5 @@
 {
-  "heading": "For a particular state it is defined as {(No. of districts in that state) * (Gini score of that state)}/(No. of districts in that state-1). Higher value of concentration indicates that cases are concentrated in few districts only.(Higher concentration implies less spread)",
+  "heading": "For a particular state it is defined as propotion of number of districs having atleast 100 confirmed cases.",
   "data": {
       "headers": [
           "State / UT",
@@ -8,59 +8,59 @@
       "stateData": [
           {
               "stateName": "Andhra Pradesh",
-              "concentration": 0.52
+              "concentration": 0.85
           },
           {
               "stateName": "Gujarat",
-              "concentration": 0.91
+              "concentration": 0.36
           },
           {
               "stateName": "Jammu & Kashmir",
-              "concentration": 0.57
+              "concentration": 0.41
           },
           {
               "stateName": "Karnataka",
-              "concentration": 0.51
+              "concentration": 0.43
           },
           {
               "stateName": "Kerala",
-              "concentration": 0.45
+              "concentration": 0.21
           },
           {
               "stateName": "Madhya Pradesh",
-              "concentration": 0.52
+              "concentration": 0.20
           },
           {
               "stateName": "Maharashtra",
-              "concentration": 0.91
+              "concentration": 0.64
           },
           {
               "stateName": "Rajasthan",
-              "concentration": 0.67
+              "concentration": 0.61
           },
           {
               "stateName": "Tamil Nadu",
-              "concentration": 0.83
+              "concentration": 0.50
           },
           {
               "stateName": "Telangana",
-              "concentration": 0.86
+              "concentration": 0.06
           },
           {
               "stateName": "Uttar Pradesh",
-              "concentration": 0.55
+              "concentration": 0.31
           },
           {
               "stateName": "Haryana",
-              "concentration": 0.62
+              "concentration": 0.14
           },
           {
               "stateName": "West Bengal",
-              "concentration": 0.83
+              "concentration": 0.39
           },
           {
               "stateName": "Punjab",
-              "concentration": 0.39
+              "concentration": 0.41
           },
           {
               "stateName": "Delhi",
