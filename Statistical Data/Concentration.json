@@ -1,67 +1,71 @@
 {
-  "heading":"For a particular state it is defined as {(No. of districts in that state) * (Gini score of that state)}/(No. of districts in that state-1). Higher value of concentration indicates that cases are concentrated in few districts only.(Higher concentration implies less spread)",
+  "heading": "For a particular state it is defined as {(No. of districts in that state) * (Gini score of that state)}/(No. of districts in that state-1). Higher value of concentration indicates that cases are concentrated in few districts only.(Higher concentration implies less spread)",
   "data": {
-    "stateData": [
-      {
-        "stateName": "Andhra Pradesh",
-        "concentration": 0.52
-      },
-      {
-        "stateName": "Gujarat",
-        "concentration": 0.91
-      },
-      {
-        "stateName": "Jammu & Kashmir",
-        "concentration": 0.57
-      },
-      {
-        "stateName": "Karnataka",
-        "concentration": 0.51
-      },
-      {
-        "stateName": "Kerala",
-        "concentration": 0.45
-      },
-      {
-        "stateName": "Madhya Pradesh",
-        "concentration": 0.52
-      },
-      {
-        "stateName": "Maharashtra",
-        "concentration": 0.91
-      },
-      {
-        "stateName": "Rajasthan",
-        "concentration": 0.67
-      },
-      {
-        "stateName": "Tamil Nadu",
-        "concentration": 0.83
-      },
-      {
-        "stateName": "Telangana",
-        "concentration": 0.86
-      },
-      {
-        "stateName": "Uttar Pradesh",
-        "concentration": 0.55
-      },
-      {
-        "stateName": "Haryana",
-        "concentration": 0.62
-      },
-      {
-        "stateName": "West Bengal",
-        "concentration": 0.83
-      },
-      {
-        "stateName": "Punjab",
-        "concentration": 0.39
-      },
-      {
-        "stateName": "Delhi",
-        "concentration": 0.5
-      }
-    ]
+      "headers": [
+          "State / UT",
+          "Spread"
+      ],
+      "stateData": [
+          {
+              "stateName": "Andhra Pradesh",
+              "concentration": 0.52
+          },
+          {
+              "stateName": "Gujarat",
+              "concentration": 0.91
+          },
+          {
+              "stateName": "Jammu & Kashmir",
+              "concentration": 0.57
+          },
+          {
+              "stateName": "Karnataka",
+              "concentration": 0.51
+          },
+          {
+              "stateName": "Kerala",
+              "concentration": 0.45
+          },
+          {
+              "stateName": "Madhya Pradesh",
+              "concentration": 0.52
+          },
+          {
+              "stateName": "Maharashtra",
+              "concentration": 0.91
+          },
+          {
+              "stateName": "Rajasthan",
+              "concentration": 0.67
+          },
+          {
+              "stateName": "Tamil Nadu",
+              "concentration": 0.83
+          },
+          {
+              "stateName": "Telangana",
+              "concentration": 0.86
+          },
+          {
+              "stateName": "Uttar Pradesh",
+              "concentration": 0.55
+          },
+          {
+              "stateName": "Haryana",
+              "concentration": 0.62
+          },
+          {
+              "stateName": "West Bengal",
+              "concentration": 0.83
+          },
+          {
+              "stateName": "Punjab",
+              "concentration": 0.39
+          },
+          {
+              "stateName": "Delhi",
+              "concentration": 0.5
+          }
+      ]
   }
 }
