@@ -28,9 +28,17 @@
                 {
                     "name": "Proportion +ve Test (%)",
                     "values": [
-                        4.37,
-                        5.0,
-                        14.42
+                        4.32,
+                        5.68,
+                        31.48
+                    ]
+                },
+                {
+                    "name": "Total Tested",
+                    "values": [
+                        629104,
+                        730799,
+                        16.16
                     ]
                 },
                 {
@@ -56,9 +64,17 @@
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                18.94,
-                                17.18,
-                                -9.29
+                                15.12,
+                                17.76,
+                                13.49
+                            ]
+                        },
+                        {
+                            "name": "Total Tested",
+                            "values": [
+                                63523,
+                                96748,
+                                52.3
                             ]
                         },
                         {
@@ -81,7 +97,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.91,
+                                0.64,
                                 null
                             ]
                         }
@@ -100,9 +116,17 @@
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                11.25,
-                                7.47,
-                                -33.60
+                                9.91,
+                                7.25,
+                                -26.84
+                            ]
+                        },
+                        {
+                            "name": "Total Tested",
+                            "values": [
+                                32354,
+                                37537,
+                                16.02
                             ]
                         },
                         {
@@ -125,7 +149,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.91,
+                                0.36,
                                 null
                             ]
                         }
@@ -144,9 +168,17 @@
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                1.94,
-                                2.33,
-                                20.10
+                                2.06,
+                                2.28,
+                                10.68
+                            ]
+                        },
+                        {
+                            "name": "Total Tested",
+                            "values": [
+                                67346,
+                                84360,
+                                25.26
                             ]
                         },
                         {
@@ -169,7 +201,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.67,
+                                0.61,
                                 null
                             ]
                         }
@@ -188,9 +220,17 @@
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                5.88,
-                                9.76,
-                                65.99
+                                6.71,
+                                11.51,
+                                71.53
+                            ]
+                        },
+                        {
+                            "name": "Total Tested",
+                            "values": [
+                                42049,
+                                34742,
+                                -17.38
                             ]
                         },
                         {
@@ -213,7 +253,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.5,
+                                0.27,
                                 null
                             ]
                         }
@@ -232,9 +272,17 @@
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                4.73,
-                                5.63,
-                                19.03
+                                4.53,
+                                6.36,
+                                40.4
+                            ]
+                        },
+                        {
+                            "name": "Total Tested",
+                            "values": [
+                                82942,
+                                83609,
+                                0.80
                             ]
                         },
                         {
@@ -257,7 +305,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.83,
+                                0.50,
                                 null
                             ]
                         }
@@ -276,9 +324,17 @@
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                2.13,
-                                3.06,
-                                43.66
+                                2.53,
+                                3.20,
+                                26.48
+                            ]
+                        },
+                        {
+                            "name": "Total Tested",
+                            "values": [
+                                40719,
+                                59143,
+                                45.25
                             ]
                         },
                         {
@@ -301,7 +357,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.55,
+                                0.31,
                                 null
                             ]
                         }
@@ -320,9 +376,17 @@
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                4.16,
-                                4.47,
-                                7.45
+                                4.01,
+                                6.14,
+                                53.18
+                            ]
+                        },
+                        {
+                            "name": "Total Tested",
+                            "values": [
+                                36129,
+                                26416,
+                                -26.88
                             ]
                         },
                         {
@@ -345,7 +409,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.52,
+                                0.20,
                                 null
                             ]
                         }
@@ -364,9 +428,17 @@
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                2.32,
-                                1.7,
-                                -26.72
+                                1.66,
+                                1.82,
+                                9.64
+                            ]
+                        },
+                        {
+                            "name": "Total Tested",
+                            "values": [
+                                45955,
+                                54479,
+                                18.55
                             ]
                         },
                         {
@@ -389,7 +461,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.83,
+                                0.39,
                                 null
                             ]
                         }
@@ -408,9 +480,17 @@
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                0.965,
-                                1.36,
-                                40.93
+                                1.26,
+                                2.23,
+                                76.98
+                            ]
+                        },
+                        {
+                            "name": "Total Tested",
+                            "values": [
+                                9359,
+                                11950,
+                                27.68
                             ]
                         },
                         {
@@ -433,7 +513,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.45,
+                                0.21,
                                 null
                             ]
                         }
@@ -452,9 +532,17 @@
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                0.85,
-                                1.3,
-                                52.94
+                                0.96,
+                                1.37,
+                                42.71
+                            ]
+                        },
+                        {
+                            "name": "Total Tested",
+                            "values": [
+                                40068,
+                                68231,
+                                70.29
                             ]
                         },
                         {
@@ -477,7 +565,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.51,
+                                0.43,
                                 null
                             ]
                         }
@@ -496,9 +584,17 @@
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                0.43,
-                                0.55,
-                                27.91
+                                0.39,
+                                0.59,
+                                51.28
+                            ]
+                        },
+                        {
+                            "name": "Total Tested",
+                            "values": [
+                                67627,
+                                65795,
+                                -2.71
                             ]
                         },
                         {
@@ -521,7 +617,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.52,
+                                0.85,
                                 null
                             ]
                         }
@@ -542,7 +638,7 @@
                             "values": [
                                 4.12,
                                 4.37,
-                                6.07
+                                6.06
                             ]
                         },
                         {
@@ -565,7 +661,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.86,
+                                0.06,
                                 null
                             ]
                         }
@@ -584,9 +680,17 @@
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                1.77,
-                                0.74,
-                                -58.19
+                                0.96,
+                                0.71,
+                                -26.04
+                            ]
+                        },
+                        {
+                            "name": "Total Tested",
+                            "values": [
+                                10689,
+                                14258,
+                                33.39
                             ]
                         },
                         {
@@ -609,7 +713,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.39,
+                                0.41,
                                 null
                             ]
                         }
@@ -628,9 +732,17 @@
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                3.62,
-                                6.87,
-                                89.78
+                                5.49,
+                                6.82,
+                                24.22
+                            ]
+                        },
+                        {
+                            "name": "Total Tested",
+                            "values": [
+                                12334,
+                                19428,
+                                57.52
                             ]
                         },
                         {
@@ -653,7 +765,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.91,
+                                0.34,
                                 null
                             ]
                         }
@@ -672,9 +784,17 @@
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                0.92,
-                                0.94,
-                                2.17
+                                0.99,
+                                0.56,
+                                -43.43
+                            ]
+                        },
+                        {
+                            "name": "Total Tested",
+                            "values": [
+                                6791,
+                                9816,
+                                44.54
                             ]
                         },
                         {
@@ -697,7 +817,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.62,
+                                0.14,
                                 null
                             ]
                         }
@@ -716,9 +836,17 @@
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                0.68,
-                                1.07,
-                                57.35
+                                1.1,
+                                0.83,
+                                -24.54
+                            ]
+                        },
+                        {
+                            "name": "Total Tested",
+                            "values": [
+                                37267,
+                                45587,
+                                22.32
                             ]
                         },
                         {
@@ -741,7 +869,7 @@
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.57,
+                                0.41,
                                 null
                             ]
                         }
