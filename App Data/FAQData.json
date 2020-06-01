@@ -1,32 +1,41 @@
 {
     "data":[
         {
+            "question":"What is the purpose of this dashboard?",
+            "answer":"The primary aim of this dashboard is to provide actionable insights to facilitate the process of phased unlocking of the economy. Accordingly this dashboard provides a multi-dimensional view of the COVID–19 situation in India as a whole, in the different states / UTs, and in the districts within states / UTs. It gives an idea about the possible risks and provides a comprehensive picture of what worked and what did not."
+        },
+        {
+            "question":"How is this dashboard different from other dashboards?",
+            "answer":"The COVID–19 situation may be described through a number of characteristics like rate of occurrence of new cases, breakup of confirmed cases by severity, rate of recovery, number of active cases, rate of testing, rate of detection of new cases through tests, death rate, extent of spread of the virus across districts of a state / UT etc. When measured and presented appropriately, each of these characteristics communicate a different aspect of the overall scenario. Sometimes, combination of a few characteristics may be also be used. A few examples are given below."
+        },
+        {
+            "question":"How do we use this dashboard?",
+            "answer":" This dashboard is primarily meant for policy makers. It provides multi-dimensional view and risk summary for the states. The policy makers may use this to assess risk at state / district and even ward level, if data are available."
+        },
+        {
             "question":"Can I download the analysis report?",
             "answer":"Yes, the analysis report can be downloaded as csv file and graph can be downloaded as png file."
         },
         {
-            "question":"How many states can be selected  for comparison?",
-            "answer":"Depends on user. You can select any number and any combination of states for comparison."
-        },
-        {
-            "question":"How is it different than other dashboards?",
-            "answer":"In this dashboard analysis from different perspective has been shown, which will help decision makers to take decision more effectively."
+            "question":"How many states can be selected for comparison?",
+            "answer":" Depends on user. You can select any number and any combination of states for comparison."
         },
         {
             "question":"What is traffic intensity? Why is it calculated?",
-            "answer":"It is ratio of confirmed cases to recovered cases in a particular time span. It can be used to forcast/check the healthcare capability of a particular state. Lower the traffic intensity, greater is the chance to flatten the curve."
+            "answer":"It is ratio of confirmed cases to recovered cases in a particular time span. It can be used to forecast / check the healthcare capability of a particular state. Lower the traffic intensity, greater is the chance to flatten the curve."
         },
         {
             "question":"What is concentration? Why is it calculated?",
-            "answer":"For a particular state it is defined as {(No. of districts in that state) * (Gini score of that state)}/(No. of districts in that state-1). Higher value of concentration indicates that cases are concentrated in few districts only. Higher concentration implies less spread"
+            "answer":"For a particular state it is (Number of districts having at least 75% of cases) / (total number of districts in that state) , i.e. Lower value of concentration indicates that cases are concentrated in few districts only. It can be used to check the spread of the pandemic, lower concentration implies less spread."
         },
         {
             "question":"What are your data sources? How is the data gathered for this project?",
-            "answer":"Live data is taken from Google sheet api provided by <a href='https://api.covid19india.org/' target='_blank' style='color: inherit;'>covid19india.org</a>, which is taken from state bulletins and official handles.The data is validated by a group of volunteers."
+            "answer":"Live data is taken from Google sheet api provided by <a href='https://api.covid19india.org/' target='_blank' style='color: inherit;'>covid19india.org</a> , which is taken from state bulletins and official handles. The data is validated by a group of volunteers."
         },
         {
-            "question":"How can we get statewise confirmed, active and deceased data?",
-            "answer":"In the Dashboard page if you click on the option <strong>Covid 19 Map - India [TBD]</strong>, the heat map of india will appear for confrimed cases( by default). On the top left of the heat map section  you can click on different options confirmed, active , deceases to get corresponding heat maps. To get statewise confirmed, active and deceased data just move your cursour or click on the required state on the corresponding heat map of India."
+            "question":"How can we get state-wise confirmed, active and deceased data?",
+            "answer":" In the Dashboard page you can click on the option  <strong>State and District level data</strong> to get the State wise data. Yo can click on any state to get the District wise data "
         }
+
     ]
 }
