@@ -2,44 +2,7 @@
   "heading":"(Cumulative number of  Deceased  till date) / (Cumulative number of  Confirmed cases till date)",
   "data": {
     "countryData": {
-      "deathRate": [
-        {
-          "date": "06-04-2020",
-          "rate": "2.81%"
-        },
-        {
-          "date": "13-04-2020",
-          "rate": "3.42%"
-        },
-        {
-          "date": "20-04-2020",
-          "rate": "3.19%"
-        },
-        {
-          "date": "27-04-2020",
-          "rate": "3.18%"
-        },
-        {
-          "date": "04-05-2020",
-          "rate": "3.37%"
-        },
-        {
-          "date": "11-05-2020",
-          "rate": "3.24%"
-        },
-        {
-          "date": "18-05-2020",
-          "rate": "3.14%"
-        },
-        {
-          "date": "25-05-2020",
-          "rate": "2.88%"
-        },
-        {
-          "date": "01-06-2020",
-          "rate": "2.83%"
-        }
-      ]
+      "deathRate": null
     },
     "stateData": [
       {
