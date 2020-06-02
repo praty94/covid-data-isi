@@ -1,5 +1,5 @@
 {
-  "heading": "[Data updated till 25th may]traffic intensity = (Number of confirmed cases in last 7 days) / (Number of recovered cases in last 7 days)",
+  "heading": "[Data updated till 1st june]traffic intensity = (Number of confirmed cases in last 7 days) / (Number of recovered cases in last 7 days)",
   "data": {
     "countryData": {
       "countryName": "India",
@@ -19,6 +19,10 @@
         {
           "name": "25-05-2020",
           "value": 2.08
+        },
+        {
+          "name": "01-06-2020",
+          "value": 1.52
         }
       ]
     },
@@ -41,6 +45,10 @@
           {
             "name": "25-05-2020",
             "value": 1.34
+          },
+          {
+            "name": "01-06-2020",
+            "value": 1.64
           }
         ]
       },
@@ -62,6 +70,10 @@
           {
             "name": "25-05-2020",
             "value": 1.75
+          },
+          {
+            "name": "01-06-2020",
+            "value": 3.43
           }
         ]
       },
@@ -83,6 +95,10 @@
           {
             "name": "25-05-2020",
             "value": 1.49
+          },
+          {
+            "name": "01-06-2020",
+            "value": 0.66
           }
         ]
       },
@@ -104,6 +120,10 @@
           {
             "name": "25-05-2020",
             "value": 1.90
+          },
+          {
+            "name": "01-06-2020",
+            "value": 6.81
           }
         ]
       },
@@ -125,6 +145,10 @@
           {
             "name": "25-05-2020",
             "value": 5.35
+          },
+          {
+            "name": "01-06-2020",
+            "value": 1.97
           }
         ]
       },
@@ -146,6 +170,10 @@
           {
             "name": "25-05-2020",
             "value": 7.60
+          },
+          {
+            "name": "01-06-2020",
+            "value": 5.66
           }
         ]
       },
@@ -167,6 +195,10 @@
           {
             "name": "25-05-2020",
             "value": 1.43
+          },
+          {
+            "name": "01-06-2020",
+            "value": 0.99
           }
         ]
       },
@@ -188,6 +220,10 @@
           {
             "name": "25-05-2020",
             "value": 2.40
+          },
+          {
+            "name": "01-06-2020",
+            "value": 1.21
           }
         ]
       },
@@ -209,6 +245,10 @@
           {
             "name": "25-05-2020",
             "value": 0.28
+          },
+          {
+            "name": "01-06-2020",
+            "value": 2.53
           }
         ]
       },
@@ -230,6 +270,10 @@
           {
             "name": "25-05-2020",
             "value": 2.17
+          },
+          {
+            "name": "01-06-2020",
+            "value": 0.83
           }
         ]
       },
@@ -251,6 +295,10 @@
           {
             "name": "25-05-2020",
             "value": 1.23
+          },
+          {
+            "name": "01-06-2020",
+            "value": 1.44
           }
         ]
       },
@@ -272,6 +320,10 @@
           {
             "name": "25-05-2020",
             "value": 2.02
+          },
+          {
+            "name": "01-06-2020",
+            "value": 2.67
           }
         ]
       },
@@ -293,6 +345,10 @@
           {
             "name": "25-05-2020",
             "value": 2.16
+          },
+          {
+            "name": "01-06-2020",
+            "value": 1.36
           }
         ]
       },
@@ -314,6 +370,10 @@
           {
             "name": "25-05-2020",
             "value": 6.08
+          },
+          {
+            "name": "01-06-2020",
+            "value": 1.20
           }
         ]
       },
@@ -335,9 +395,38 @@
           {
             "name": "25-05-2020",
             "value": 1.51
+          },
+          {
+            "name": "01-06-2020",
+            "value": 1.12
           }
         ]
       },
+      {
+        "stateName": "Assam",
+        "trafficIntensity": [
+          {
+            "name": "04-05-2020",
+            "value": 1.17
+          },
+          {
+            "name": "11-05-2020",
+            "value": 3.14
+          },
+          {
+            "name": "18-05-2020",
+            "value": 25.50
+          },
+          {
+            "name": "25-05-2020",
+            "value": 20.62
+          },
+          {
+            "name": "01-06-2020",
+            "value": 4.22
+          }
+        ]
+      },  
       {
         "stateName": "West Bengal",
         "trafficIntensity": [
@@ -356,6 +445,10 @@
           {
             "name": "25-05-2020",
             "value": 2.43
+          },
+          {
+            "name": "01-06-2020",
+            "value": 2.19
           }
         ]
       }
