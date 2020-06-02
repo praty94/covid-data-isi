@@ -26,6 +26,10 @@
       "Count",
       "Rank"
     ],
+    "footers":[
+      "W5 = Week 5 (17-03-2020 to 23-03-2020)",
+      "W6 = Week 6 (24-03-2020 to 30-03-2020)"
+    ],
     "stateData": [
       {
         "stateName": "Andhra Pradesh",
