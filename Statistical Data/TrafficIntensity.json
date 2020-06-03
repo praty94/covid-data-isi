@@ -1,5 +1,5 @@
 {
-  "heading": "[Data updated till 1st june]traffic intensity = (Number of confirmed cases in last 7 days) / (Number of recovered cases in last 7 days)",
+  "heading": "Traffic Intensity = (Number of confirmed cases in last 7 days) / (Number of recovered cases in last 7 days). Traffic Intensity > 1  faster arrival of cases compared to recovery. Higher values are likely to inundate the healthcare system.",
   "data": {
     "countryData": {
       "countryName": "India",
