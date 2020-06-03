@@ -1,5 +1,5 @@
 {
-  "heading": "For a particular state it is defined as propotion of number of districs having atleast 100 confirmed cases.",
+  "heading": " For a particular state it is the proportion of districts having 100 or more cases. Values > 0.5 indicates at least 50% districts may be potentially risky.",
   "data": {
       "headers": [
           "State / UT",
