@@ -1,5 +1,5 @@
 {
-  "heading": "It compares the number of confirmed cases of  two consecutive weeks for different states in terms of ratio and rank",
+  "heading": "<strong>It compares the number of confirmed cases of two consecutive weeks for different states in terms of ratio and rank. Ratio > 2  over 100% increase with respect to last week. Increase for 5 consecutive weeks with individual values > 1 likely to signal rapid spread.</strong>",
   "data": {
     "headers": [
       "State / UT",
