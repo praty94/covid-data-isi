@@ -1,6 +1,5 @@
 {
-    "heading":"(a)Increase of cases per day may indicate spread of the virus.<br/> (b) Traffic Intensity (Ratio of cases to recovery) > 1 may lead to resource crunch.<br/> (c) Increase of proportion positive with increased testing may indicate quick spread of virus or improper testing.<br/> (d) Measure of spread within a state gives the proportion of districts having more than 100 cases and is an indicator of potential threat.
-",
+    "heading":"[Risk summary heading text]",
     "data": {
         "headers": [
             " ",
