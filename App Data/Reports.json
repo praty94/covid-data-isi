@@ -3,6 +3,10 @@
         {
             "fileName": "Example file name",
             "fileURL": "https://www.test.com"
+        },
+        {
+            "fileName": "Example file name",
+            "fileURL": "https://www.test.com"
         }
     ]
 }
