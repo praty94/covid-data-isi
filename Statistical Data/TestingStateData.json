@@ -1,5 +1,5 @@
 {
-    "heading":"(Number of Tested positve in a week) / (Number of Testing done in a week)  has been calculated for different states. Large variation across consecutive weeks requires investigation. Increasing trend when number of tests are increasing may either indicate rapid spread or issues with testing.",
+    "heading":"Computed for each state as Number of Positive Test Results / Total Number of Tests in week. Large variation across consecutive weeks requires investigation. Increasing trend when number of tests are increasing may either indicate rapid spread or issues with testing.",
     "data": {
         "stateData": [
             {
