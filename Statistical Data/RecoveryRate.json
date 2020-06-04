@@ -1,5 +1,5 @@
 {
-  "heading": "(Cumulative number of  recovered till date) / (Cumulative number of  confirmed cases till date)",
+  "heading": "Computed as Cumulative Number Recovered  / Cumulative number of Confirmed Cases till date. Fall in recovery rates tend to signal faster arrival than recovery. May inundate the healthcare system if it continues for several weeks.",
   "data": {
     "countryData": {
       "countryName": "India",
