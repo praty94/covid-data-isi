@@ -1,5 +1,5 @@
 {
-  "heading":"It is defined as (Cumulative number of Deceased) / (Cumulative number of Confirmed cases). Increasing trend is a cause of concern. Large variation across weeks may indicate systemic issues related to reporting ",
+  "heading":"Computed as Cumulative Number Deceased / Cumulative Number of Confirmed Cases till date. Increasing trend is a cause of concern. Large variation across weeks may indicate systemic issues related to reporting ",
   "data": {
     "countryData": {
       "countryName": "India",
