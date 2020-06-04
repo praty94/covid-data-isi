@@ -1,5 +1,5 @@
 {
-    "heading":"<strong>a)</strong> Increase of cases per day may indicate spread of the virus. <strong>b)</strong> Traffic Intensity (Ratio of cases to recovery) > 1 may lead to resource crunch. <strong>c)</strong> Increase of proportion positive with increased testing may indicate quick spread of virus or improper testing. <strong>d)</strong> Measure of spread within a state gives the proportion of districts having more than 100 cases and is an indicator of potential threat.",
+    "heading":"<strong>a)</strong> Increase of cases per day may indicate spread of the virus. <strong>b)</strong> Traffic Intensity (Ratio of cases to recovery) > 1 may lead to resource crunch. <strong>c)</strong> Increase of proportion positive with increased testing may indicate quick spread of virus or improper testing. <strong>d)</strong> Measure of spread within a state gives the proportion of districts having more than 100 cases and is an indicator of potential threat. <strong>e)</strong>Increase of death rate (say by over 5%) may be a cause of concern. Continuously falling death rate for 5 or more consecutive weeks (visible from the death rate tab) provides reasonable evidence of real improvement.",
     "data": {
         "headers": [
             " ",
