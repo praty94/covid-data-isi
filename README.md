@@ -1,4 +1,4 @@
-# covid-data-isi
+# Data Repository for Covid Application - ISI
 Github repository for maintaining statistical data for Covid 19
 
 Applications that use this project data :
