@@ -6,34 +6,39 @@
                 "stateName": "Andhra Pradesh",
                 "testData": [
                     {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":1.04
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":0.85
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":0.93
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":1.26
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":0.66
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":3.40
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":0.39
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":2.53
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":0.59
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":3.79
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":0.65
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":7.96
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":12.85
                     }
                 ]
             },
@@ -41,34 +46,39 @@
                 "stateName": "Bihar",
                 "testData": [
                     {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":5.38
+                    },
+                    {
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":5.66
+                    },
+                    {
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
                         "percPositive":3.38
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":1.94
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":3.45
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":2.99
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":5.12
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":5.49
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":9.60
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":6.82
-                    },
-                    {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":9.91
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":14.44
                     }
                 ]
             },
@@ -76,34 +86,39 @@
                 "stateName": "Delhi",
                 "testData": [
                     {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":7.33
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":23.92
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":7.40
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":31.37
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":6.96
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":22.53
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":6.71
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":17.33
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":11.51
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":10.97
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":15.74
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":9.54
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":7.27
                     }
                 ]
             },
@@ -111,69 +126,79 @@
                 "stateName": "Gujarat",
                 "testData": [
                     {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":7.94
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":8.39
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":7.26
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":9.64
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":8.60
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":10.36
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":9.91
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":10.79
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":7.25
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":9.53
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":9.19
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":11.49
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":8.42
                     }
                 ]
             },
             {
                 "stateName": "Haryana",
                 "testData": [
-                    {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":0.55
+                   {
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":3.26
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":1.42
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":2.15
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":0.99
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":2.05
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":0.94
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":2.56
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":1.48
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":3.02
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":5.24
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":4.02
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":6.55
                     }
                 ]
             },
@@ -181,34 +206,39 @@
                 "stateName": "Jammu & Kashmir",
                 "testData": [
                     {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":2.79
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":3.26
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":1.36
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":2.15
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":0.66
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":2.05
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":1.10
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":2.56
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":0.83
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":3.02
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":2.21
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":4.02
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":6.55
                     }
                 ]
             },
@@ -216,69 +246,79 @@
                 "stateName": "Karnataka",
                 "testData": [
                     {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":0.46
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":2.66
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":0.41
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":2.59
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":0.65
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":3.28
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":0.96
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":5.49
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":1.37
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":9.41
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":1.44
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":12.15
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":12.85
                     }
                 ]
             },
             {
                 "stateName": "Kerala",
                 "testData": [
-                    {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":1.66
+                   {
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":2.16
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":0.16
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":1.43
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":0.21
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":2.24
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":1.26
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":2.58
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":2.23
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":2.57
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":2.21
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":1.92
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":3.82
                     }
                 ]
             },
@@ -286,34 +326,39 @@
                 "stateName": "Madhya Pradesh",
                 "testData": [
                     {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":8.64
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":3.14
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":3.1
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":3.03
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":3.52
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":2.56
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":4.02
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":2.54
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":6.14
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":3.00
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":4.26
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":3.18
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":4.79
                     }
                 ]
             },
@@ -321,34 +366,39 @@
                 "stateName": "Maharashtra",
                 "testData": [
                     {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":8.82
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":19.71
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":9.22
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":20.73
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":20.63
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":20.50
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":15.19
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":26.13
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":17.75
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":22.30
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":18.70
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":24.05
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":22.61
                     }
                 ]
             },
@@ -356,34 +406,39 @@
                 "stateName": "Odisha",
                 "testData": [
                     {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":0.30
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":3.75
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":0.36
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":4.59
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":1.10
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":4.92
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":1.43
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":4.78
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":1.76
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":7.25
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":2.39
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":9.50
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":8.40
                     }
                 ]
             },
@@ -391,34 +446,39 @@
                 "stateName": "Punjab",
                 "testData": [
                     {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":0.97
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":0.94
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":6.92
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":1.03
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":4.69
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":1.67
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":0.96
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":2.48
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":0.71
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":2.23
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":0.92
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":2.89
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":3.58
                     }
                 ]
             },
@@ -426,34 +486,39 @@
                 "stateName": "Rajasthan",
                 "testData": [
                     {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":2.25
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":1.91
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":1.93
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":2.31
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":1.98
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":2.24
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":2.06
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":2.42
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":2.28
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":2.73
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":1.85
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":2.88
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":3.10
                     }
                 ]
             },
@@ -461,104 +526,119 @@
                 "stateName": "Tamil Nadu",
                 "testData": [
                     {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":0.87
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":9.30
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":2.36
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":10.97
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":4.84
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":8.19
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":4.53
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":10.91
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":6.36
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":12.18
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":7.83
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":10.02
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":9.95
                     }
                 ]
             },
             {
                 "stateName": "Uttar Pradesh",
                 "testData": [
-                    {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":2.17
+                   {
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":3.12
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":2.79
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":3.68
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":2.15
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":3.91
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":2.53
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":3.37
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":3.20
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":2.78
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":2.99
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":3.45
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":4.05
                     }
                 ]
             },
             {
                 "stateName": "West Bengal",
                 "testData": [
-                    {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":4.71
+                   {
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":4.25
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":4.67
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":4.56
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":3.57
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":4.24
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":1.66
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":5.25
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":1.82
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":6.90
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":3.00
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":11.22
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":14.98
                     }
                 ]
             },
@@ -566,34 +646,39 @@
                 "stateName": "Assam",
                 "testData": [
                     {
-                        "startDate": "21-04-2020",
-                        "endDate": "27-04-2020",
-                        "percPositive":0.03
+                        "startDate": "02-06-2020",
+                        "endDate": "08-06-2020",
+                        "percPositive":3.07
                     },
                     {
-                        "startDate": "28-04-2020",
-                        "endDate": "04-05-2020",
-                        "percPositive":0.15
+                        "startDate": "09-06-2020",
+                        "endDate": "15-06-2020",
+                        "percPositive":2.53
                     },
                     {
-                        "startDate": "05-05-2020",
-                        "endDate": "11-05-2020",
-                        "percPositive":0.32
+                        "startDate": "16-06-2020",
+                        "endDate": "22-06-2020",
+                        "percPositive":1.69
                     },
                     {
-                        "startDate": "12-05-2020",
-                        "endDate": "18-05-2020",
-                        "percPositive":0.23
+                        "startDate": "23-06-2020",
+                        "endDate": "29-06-2020",
+                        "percPositive":1.95
                     },
                     {
-                        "startDate": "19-05-2020",
-                        "endDate": "25-05-2020",
-                        "percPositive":1.31
+                        "startDate": "30-06-2020",
+                        "endDate": "06-07-2020",
+                        "percPositive":5.91
                     },
                     {
-                        "startDate": "26-05-2020",
-                        "endDate": "01-06-2020",
-                        "percPositive":1.83
+                        "startDate": "07-07-2020",
+                        "endDate": "13-07-2020",
+                        "percPositive":5.50
+                    },
+                    {
+                        "startDate": "14-07-2020",
+                        "endDate": "20-07-2020",
+                        "percPositive":6.68
                     }
                 ]
             }
