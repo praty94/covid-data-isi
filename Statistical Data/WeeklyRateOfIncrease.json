@@ -12,1242 +12,823 @@
       "Count",
       "Rank",
       "Count",
-      "Rank",
-      "Count",
-      "Rank",
-      "Count",
-      "Rank",
-      "Count",
-      "Rank",
-      "Count",
-      "Rank",
-      "Count",
-      "Rank",
-      "Count",
       "Rank"
     ],
     "footers":[
-      "W5 = Week 5 (07-04-2020 to 13-04-2020)",
-      "W6 = Week 6 (14-04-2020 to 20-04-2020)",
-      "W7 = Week 7 (21-04-2020 to 27-04-2020)",
-      "W8 = Week 8 (28-04-2020 to 04-05-2020)",
-      "W9 = Week 9 (05-05-2020 to 11-05-2020)",
-      "W10 = Week 10 (12-05-2020 to 18-05-2020)",
-      "W11 = Week 11 (19-05-2020 to 25-05-2020)",
-      "W12 = Week 12 (26-05-2020 to 01-06-2020)"
+      "W13 = Week 13 (16-06-2020 to 22-06-2020)",
+      "W14 = Week 14 (23-06-2020 to 29-06-2020)",
+      "W15 = Week 15 (30-06-2020 to 06-07-2020)",
+      "W16 = Week 16 (07-07-2020 to 13-07-2020)",
+      "W17 = Week 17 (14-07-2020 to 20-07-2020)"
+
     ],
     "stateData": [
       {
         "stateName": "Andhra Pradesh",
         "weeklyData": [
           {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 6,
-            "rank": 13.5
-          },
-          {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 16,
-            "rank": 13
-          },
-          {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 203,
-            "rank": 7
-          },
-          {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 206,
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 2916,
             "rank": 8
           },
           {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 290,
-            "rank": 9
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 4519,
+            "rank": 6
           },
           {
-            "startDate": "21-04-2020",
-            "endDate": "27-04-2020",
-            "value": 455,
-            "rank": 7
-          },
-         {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 473,
-            "rank": 10
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 6128,
+            "rank": 6
           },
           {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 368,
-            "rank": 10
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 11084,
+            "rank": 5
           },
           {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 414,
-            "rank": 10
-          },
-          {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 454,
-            "rank": 11
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 790,
-            "rank": 15
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 22621,
+            "rank": 4
           }
         ],
         "ratios": [
           {
-            "name": "W6/W5",
-            "value": 1.41
+            "name": "W17/W16",
+            "value": 2.04
           },
           {
-            "name": "W7/W6",
-            "value": 1.57
+            "name": "W16/W15",
+            "value": 1.81 
           },
           {
-            "name": "W8/W7",
-            "value": 1.04
+            "name": "W15/W14",
+            "value": 1.36
           },
           {
-            "name": "W9/W8",
-            "value": 0.78
-          },
-          {
-            "name": "W10/W9",
-            "value": 1.125
-          },
-          {
-            "name": "W11/W10",
-            "value": 1.1
-          },
-          {
-            "name": "W12/W11",
-            "value": 1.74
+            "name": "W14/W13",
+            "value": 1.55
           }
         ]
       },
+     
       {
         "stateName": "Delhi",
         "weeklyData": [
           {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 21,
-            "rank": 8
-          },
-          {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 67,
-            "rank": 3
-          },
-          {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 426,
-            "rank": 3
-          },
-          {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 631,
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 19826,
             "rank": 2
           },
           {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 849,
-            "rank": 4
-          },
-          {
-            "startDate": "21-04-2020",
-            "endDate": "28-04-2020",
-            "value": 967,
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 22506,
             "rank": 3
           },
           {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 1790,
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 15662,
             "rank": 3
           },
           {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 2335,
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 12917,
             "rank": 4
           },
           {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 2821,
-            "rank": 4
-          },
-          {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 3999,
-            "rank": 3
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 6781,
-            "rank": 2
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 10007,
+            "rank": 9
           }
         ],
         "ratios": [
           {
-            "name": "W6/W5",
-            "value": 1.35
+            "name": "W17/W16",
+            "value": 0.77
           },
           {
-            "name": "W7/W6",
-            "value": 1.14
+            "name": "W16/W15",
+            "value": 0.82 
           },
           {
-            "name": "W8/W7",
-            "value": 1.85
+            "name": "W15/W14",
+            "value": 0.7
           },
           {
-            "name": "W9/W8",
-            "value": 1.3
-          },
-          {
-            "name": "W10/W9",
-            "value": 1.21
-          },
-          {
-            "name": "W11/W10",
-            "value": 1.42
-          },
-          {
-            "name": "W12/W11",
-            "value": 1.69
+            "name": "W14/W13",
+            "value": 1.13
           }
-
         ]
       },
+      
       {
         "stateName": "Gujarat",
         "weeklyData": [
           {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 29,
-            "rank": 3.5
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 3776,
+            "rank": 5
           },
           {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 40,
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 4143,
+            "rank": 8
+          },
+          {
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 4835,
             "rank": 9
           },
           {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 75,
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 5950,
+            "rank": 9
+          },
+          {
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 6631,
             "rank": 10
-          },
-          {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 395,
-            "rank": 6
-          },
-          {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 1312,
-            "rank": 2
-          },
-          {
-            "startDate": "21-04-2020",
-            "endDate": "28-04-2020",
-            "value": 1506,
-            "rank": 2
-          },
-          {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 2256,
-            "rank": 2
-          },
-          {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 2738,
-            "rank": 3
-          },
-          {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 3204,
-            "rank": 3
-          },
-          {
-            "startDate": "25-05-2020",
-            "endDate": "19-05-2020",
-            "value": 2722,
-            "rank": 4
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 2749,
-            "rank": 4
           }
         ],
         "ratios": [
           {
-            "name": "W6/W5",
-            "value": 3.32
+            "name": "W17/W16",
+            "value": 1.11
           },
           {
-            "name": "W7/W6",
-            "value": 1.15
+            "name": "W16/W15",
+            "value": 1.23
           },
           {
-            "name": "W8/W7",
-            "value": 1.5
-          },
-          {
-            "name": "W9/W8",
-            "value": 1.21
-          },
-          {
-            "name": "W10/W9",
+            "name": "W15/W14",
             "value": 1.17
           },
           {
-            "name": "W11/W10",
-            "value": 0.85
-          },
-          {
-            "name": "W12/W11",
-            "value": 1.01
+            "name": "W14/W13",
+            "value": 1.1
           }
-
         ]
       },
+     
       {
         "stateName": "Haryana",
         "weeklyData": [
           {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 12,
-            "rank": 10
-          },
-          {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 10,
-            "rank": 15
-          },
-          {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 48,
-            "rank": 14
-          },
-          {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 101,
-            "rank": 11
-          },
-          {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 48,
-            "rank": 14
-          },
-          {
-            "startDate": "21-04-2020",
-            "endDate": "28-04-2020",
-            "value": 65,
-            "rank": 15
-          },
-          {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 216,
-            "rank": 11
-          },
-          {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 213,
-            "rank": 12
-          },
-          {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 198,
-            "rank": 14
-          },
-          {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 285,
-            "rank": 14
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 1143,
-            "rank": 11
-          }
-        ],
-        "ratios": [
-          {
-            "name": "W6/W5",
-            "value": 0.48
-          },
-          {
-            "name": "W7/W6",
-            "value": 1.35
-          },
-          {
-            "name": "W8/W7",
-            "value": 3.32
-          },
-          {
-            "name": "W9/W8",
-            "value": 0.99
-          },
-          {
-            "name": "W10/W9",
-            "value": 0.93
-          },
-          {
-            "name": "W11/W10",
-            "value": 1.44
-          },
-          {
-            "name": "W12/W11",
-            "value": 4.01
-          }
-        ]
-      },
-      {
-        "stateName": "Jammu and Kashmir",
-        "weeklyData": [
-          {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 1,
-            "rank": 15
-          },
-          {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 44,
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 3303,
             "rank": 7
           },
           {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 61,
-            "rank": 12
-          },
-          {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 136,
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 3185,
             "rank": 10
           },
           {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 105,
-            "rank": 12
-          },
-          {
-            "startDate": "21-04-2020",
-            "endDate": "27-04-2020",
-            "value": 169,
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 3294,
             "rank": 10
           },
           {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 165,
-            "rank": 12
-          },
-          {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 153,
-            "rank": 15
-          },
-          {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 410,
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 4425,
             "rank": 11
           },
           {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 379,
-            "rank": 12
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 943,
-            "rank": 12
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 4929,
+            "rank": 14
           }
         ],
         "ratios": [
           {
-            "name": "W6/W5",
-            "value": 0.77
+            "name": "W17/W16",
+            "value": 1.11
           },
           {
-            "name": "W7/W6",
-            "value": 1.61
+            "name": "W16/W15",
+            "value": 1.34 
           },
           {
-            "name": "W8/W7",
-            "value": 0.98
+            "name": "W15/W14",
+            "value": 1.03
           },
           {
-            "name": "W9/W8",
-            "value": 0.93
-          },
-          {
-            "name": "W10/W9",
-            "value": 2.68
-          },
-          {
-            "name": "W11/W10",
-            "value": 0.92
-          },
-          {
-            "name": "W12/W11",
-            "value": 2.49
+            "name": "W14/W13",
+            "value": 0.96
           }
         ]
       },
+      
+      {
+        "stateName": "Jammu & Kashmir",
+        "weeklyData": [
+          {
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 868,
+            "rank": 15
+          },
+          {
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 1149,
+            "rank": 15
+          },
+          {
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 1438,
+            "rank": 14
+          },
+          {
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 2152,
+            "rank": 15
+          },
+          {
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 3823,
+            "rank": 15
+          }
+        ],
+        "ratios": [
+          {
+            "name": "W17/W16",
+            "value": 1.78
+          },
+          {
+            "name": "W16/W15",
+            "value": 1.5 
+          },
+          {
+            "name": "W15/W14",
+            "value": 1.25
+          },
+          {
+            "name": "W14/W13",
+            "value": 1.32
+          }
+        ]
+      },
+     
       {
         "stateName": "Karnataka",
         "weeklyData": [
           {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 23,
-            "rank": 5.5
-          },
-          {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 53,
-            "rank": 6
-          },
-          {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 68,
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 2186,
             "rank": 11
           },
           {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 96,
-            "rank": 13
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 4896,
+            "rank": 5
           },
           {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 148,
-            "rank": 11
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 11022,
+            "rank": 4
           },
           {
-            "startDate": "21-04-2020",
-            "endDate": "27-04-2020",
-            "value": 106,
-            "rank": 12
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 16264,
+            "rank": 3
           },
           {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 139,
-            "rank": 13
-          },
-          {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 211,
-            "rank": 13
-          },
-          {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 384,
-            "rank": 12
-          },
-          {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 936,
-            "rank": 10
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 1226,
-            "rank": 9
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 25839,
+            "rank": 3
           }
         ],
         "ratios": [
           {
-            "name": "W6/W5",
-            "value": 1.54
+            "name": "W17/W16",
+            "value": 1.59
           },
           {
-            "name": "W7/W6",
-            "value": 0.72
+            "name": "W16/W15",
+            "value": 1.48 
           },
           {
-            "name": "W8/W7",
-            "value": 1.31
+            "name": "W15/W14",
+            "value": 2.25
           },
           {
-            "name": "W9/W8",
-            "value": 1.52
-          },
-          {
-            "name": "W10/W9",
-            "value": 1.82
-          },
-          {
-            "name": "W11/W10",
-            "value": 2.44
-          },
-          {
-            "name": "W12/W11",
-            "value": 1.31
+            "name": "W14/W13",
+            "value": 2.24
           }
         ]
       },
+      
       {
         "stateName": "Kerala",
         "weeklyData": [
           {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 44,
-            "rank": 1
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 767,
+            "rank": 16
           },
           {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 152,
-            "rank": 1
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 1001,
+            "rank": 16
           },
           {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 95,
-            "rank": 9
-          },
-          {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 62,
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 1311,
             "rank": 15
           },
           {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 26,
-            "rank": 15
-          },
-          {
-            "startDate": "21-04-2020",
-            "endDate": "27-04-2020",
-            "value": 77,
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 2700,
             "rank": 14
           },
           {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 18,
-            "rank": 15
-          },
-          {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 20,
-            "rank": 16
-          },
-          {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 111,
-            "rank": 15
-          },
-          {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 266,
-            "rank": 15
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 430,
-            "rank": 16
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 4952,
+            "rank": 13
           }
         ],
         "ratios": [
           {
-            "name": "W6/W5",
-            "value": 0.42
+            "name": "W17/W16",
+            "value": 1.83
           },
           {
-            "name": "W7/W6",
-            "value": 2.96
+            "name": "W16/W15",
+            "value": 2.06 
           },
           {
-            "name": "W8/W7",
-            "value": 0.23
+            "name": "W15/W14",
+            "value": 1.31
           },
           {
-            "name": "W9/W8",
-            "value": 1.11
-          },
-          {
-            "name": "W10/W9",
-            "value": 5.55
-          },
-          {
-            "name": "W11/W10",
-            "value": 2.4
-          },
-          {
-            "name": "W12/W11",
-            "value": 1.62
+            "name": "W14/W13",
+            "value": 1.3
           }
         ]
       },
+     
       {
         "stateName": "Madhya Pradesh",
         "weeklyData": [
           {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 6,
-            "rank": 13.5
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 1143,
+            "rank": 12
           },
           {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 41,
-            "rank": 8
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 1292,
+            "rank": 13
           },
           {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 118,
-            "rank": 8
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 1914,
+            "rank": 13
           },
           {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 439,
-            "rank": 5
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 2923,
+            "rank": 13
           },
           {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 881,
-            "rank": 3
-          },
-          {
-            "startDate": "21-04-2020",
-            "endDate": "27-04-2020",
-            "value": 686,
-            "rank": 6
-          },
-          {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 777,
-            "rank": 8
-          },
-          {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 843,
-            "rank": 6
-          },
-          {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 1451,
-            "rank": 6
-          },
-          {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 1623,
-            "rank": 6
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 1424,
-            "rank": 8
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 5103,
+            "rank": 12
           }
         ],
         "ratios": [
           {
-            "name": "W6/W5",
-            "value": 2.01
+            "name": "W17/W16",
+            "value": 1.75
           },
           {
-            "name": "W7/W6",
-            "value": 0.78
+            "name": "W16/W15",
+            "value": 1.53 
           },
           {
-            "name": "W8/W7",
+            "name": "W15/W14",
+            "value": 1.48
+          },
+          {
+            "name": "W14/W13",
             "value": 1.13
-          },
-          {
-            "name": "W9/W8",
-            "value": 1.08
-          },
-          {
-            "name": "W10/W9",
-            "value": 1.72
-          },
-          {
-            "name": "W11/W10",
-            "value": 1.12
-          },
-          {
-            "name": "W12/W11",
-            "value": 0.88
           }
         ]
       },
+      
       {
         "stateName": "Maharashtra",
         "weeklyData": [
           {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 40,
-            "rank": 2
-          },
-          {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 133,
-            "rank": 2
-          },
-          {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 541,
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 25052,
             "rank": 1
           },
           {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 1237,
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 34087,
             "rank": 1
           },
           {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 2218,
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 42104,
             "rank": 1
           },
           {
-            "startDate": "21-04-2020",
-            "endDate": "27-04-2020",
-            "value": 4000,
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 48937,
             "rank": 1
           },
           {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 5951,
-            "rank": 1
-          },
-          {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 8860,
-            "rank": 1
-          },
-          {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 11657,
-            "rank": 1
-          },
-          {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 17609,
-            "rank": 1
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 17346,
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 57771,
             "rank": 1
           }
         ],
         "ratios": [
           {
-            "name": "W6/W5",
-            "value": 1.79
+            "name": "W17/W16",
+            "value": 1.18
           },
           {
-            "name": "W7/W6",
-            "value": 1.8
+            "name": "W16/W15",
+            "value": 1.16 
           },
           {
-            "name": "W8/W7",
-            "value": 1.49
+            "name": "W15/W14",
+            "value": 1.23
           },
           {
-            "name": "W9/W8",
-            "value": 1.49
-          },
-          {
-            "name": "W10/W9",
-            "value": 1.32
-          },
-          {
-            "name": "W11/W10",
-            "value": 1.51
-          },
-          {
-            "name": "W12/W11",
-            "value": 0.98
+            "name": "W14/W13",
+            "value": 1.36
           }
         ]
       },
+      
       {
         "stateName": "Rajasthan",
         "weeklyData": [
           {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 23,
-            "rank": 5.5
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 2251,
+            "rank": 10
           },
           {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 31,
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 2428,
             "rank": 11
           },
           {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 215,
-            "rank": 5
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 3028,
+            "rank": 11
           },
           {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 538,
-            "rank": 3
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 4248,
+            "rank": 12
           },
           {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 666,
-            "rank": 6
-          },
-          {
-            "startDate": "21-04-2020",
-            "endDate": "27-04-2020",
-            "value": 714,
-            "rank": 5
-          },
-          {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 797,
-            "rank": 6
-          },
-          {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 927,
-            "rank": 5
-          },
-          {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 1519,
-            "rank": 5
-          },
-          {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 1789,
-            "rank": 5
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 1800,
-            "rank": 7
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 5454,
+            "rank": 11
           }
         ],
         "ratios": [
           {
-            "name": "W6/W5",
-            "value": 1.24
+            "name": "W17/W16",
+            "value": 1.28
           },
           {
-            "name": "W7/W6",
-            "value": 1.07
+            "name": "W16/W15",
+            "value": 1.4 
           },
           {
-            "name": "W8/W7",
-            "value": 1.12
+            "name": "W15/W14",
+            "value": 1.25
           },
           {
-            "name": "W9/W8",
-            "value": 1.16
-          },
-          {
-            "name": "W10/W9",
-            "value": 1.64
-          },
-          {
-            "name": "W11/W10",
-            "value": 1.18
-          },
-          {
-            "name": "W12/W11",
-            "value": 1.01
+            "name": "W14/W13",
+            "value": 1.08
           }
         ]
       },
+     
       {
         "stateName": "Tamil Nadu",
         "weeklyData": [
           {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 8,
-            "rank": 11
-          },
-          {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 58,
-            "rank": 5
-          },
-          {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 504,
-            "rank": 2
-          },
-          {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 504,
-            "rank": 4
-          },
-          {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 402,
-            "rank": 7
-          },
-          {
-            "startDate": "21-04-2020",
-            "endDate": "27-04-2020",
-            "value": 388,
-            "rank": 8
-          },
-          {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 1613,
-            "rank": 4
-          },
-          {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 4452,
-            "rank": 2
-          },
-          {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 3758,
-            "rank": 2
-          },
-          {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 5322,
-            "rank": 2
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 6413,
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 15583,
             "rank": 3
+          },
+          {
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 24137,
+            "rank": 2
+          },
+          {
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 28754,
+            "rank": 2
+          },
+          {
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 27820,
+            "rank": 2
+          },
+          {
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 32880,
+            "rank": 2
           }
         ],
         "ratios": [
           {
-            "name": "W6/W5",
-            "value": 0.8
+            "name": "W17/W16",
+            "value": 1.18
           },
           {
-            "name": "W7/W6",
-            "value": 0.97
+            "name": "W16/W15",
+            "value": 0.97 
           },
           {
-            "name": "W8/W7",
-            "value": 4.16
+            "name": "W15/W14",
+            "value": 1.19
           },
           {
-            "name": "W9/W8",
-            "value": 2.76
-          },
-          {
-            "name": "W10/W9",
-            "value": 0.84
-          },
-          {
-            "name": "W11/W10",
-            "value": 1.42
-          },
-          {
-            "name": "W12/W11",
-            "value": 1.20
+            "name": "W14/W13",
+            "value": 1.55
           }
         ]
       },
+     
       {
-        "stateName": "Telangana",
+        "stateName": "Telanana",
         "weeklyData": [
           {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 29,
-            "rank": 3.5
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 3481,
+            "rank": 6
           },
           {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 39,
-            "rank": 10
-          },
-          {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 250,
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 6720,
             "rank": 4
           },
           {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 241,
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 10339,
+            "rank": 5
+          },
+          {
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 10488,
+            "rank": 6
+          },
+          {
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 10053,
             "rank": 7
-          },
-          {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 311,
-            "rank": 8
-          },
-          {
-            "startDate": "21-04-2020",
-            "endDate": "27-04-2020",
-            "value": 131,
-            "rank": 11
-          },
-          {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 82,
-            "rank": 14
-          },
-          {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 190,
-            "rank": 14
-          },
-          {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 317,
-            "rank": 13
-          },
-          {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 328,
-            "rank": 13
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 872,
-            "rank": 14
           }
         ],
         "ratios": [
           {
-            "name": "W6/W5",
-            "value": 1.29
+            "name": "W17/W16",
+            "value": 0.96
           },
           {
-            "name": "W7/W6",
-            "value": 0.42
+            "name": "W16/W15",
+            "value": 1.01 
           },
           {
-            "name": "W8/W7",
-            "value": 0.63
+            "name": "W15/W14",
+            "value": 1.54
           },
           {
-            "name": "W9/W8",
-            "value": 2.32
+            "name": "W14/W13",
+            "value": 1.93
+          }
+        ]
+      },
+      
+      {
+        "stateName": "West Bengal",
+        "weeklyData": [
+          {
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 2864,
+            "rank": 9
           },
           {
-            "name": "W10/W9",
-            "value": 1.67
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 3549,
+            "rank": 9
           },
           {
-            "name": "W11/W10",
-            "value": 1.03
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 5080,
+            "rank": 8
           },
           {
-            "name": "W12/W11",
-            "value": 2.66
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 8461,
+            "rank": 8
+          },
+          {
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 13321,
+            "rank": 5
+          }
+        ],
+        "ratios": [
+          {
+            "name": "W17/W16",
+            "value": 1.57
+          },
+          {
+            "name": "W16/W15",
+            "value": 1.67 
+          },
+          {
+            "name": "W15/W14",
+            "value": 1.43
+          },
+          {
+            "name": "W14/W13",
+            "value": 1.24
+          }
+        ]
+      },
+      
+      {
+        "stateName": "Punjab",
+        "weeklyData": [
+          {
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 968,
+            "rank": 14
+          },
+          {
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 1183,
+            "rank": 14
+          },
+          {
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 1073,
+            "rank": 16
+          },
+          {
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 1687,
+            "rank": 16
+          },
+          {
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 2332,
+            "rank": 16
+          }
+        ],
+        "ratios": [
+          {
+            "name": "W17/W16",
+            "value": 1.38
+          },
+          {
+            "name": "W16/W15",
+            "value": 1.57
+          },
+          {
+            "name": "W15/W14",
+            "value": 0.907
+          },
+          {
+            "name": "W14/W13",
+            "value": 1.22
+          }
+        ]
+      },
+      
+      {
+        "stateName": "Bihar",
+        "weeklyData": [
+          {
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 1083,
+            "rank": 13
+          },
+          {
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 1725,
+            "rank": 12
+          },
+          {
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 2522,
+            "rank": 12
+          },
+          {
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 5281,
+            "rank": 10
+          },
+          {
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 10034,
+            "rank": 8
+          }
+        ],
+        "ratios": [
+          {
+            "name": "W17/W16",
+            "value": 1.9
+          },
+          {
+            "name": "W16/W15",
+            "value": 2.09 
+          },
+          {
+            "name": "W15/W14",
+            "value": 1.46
+          },
+          {
+            "name": "W14/W13",
+            "value": 1.59
           }
         ]
       },
@@ -1255,504 +836,52 @@
         "stateName": "Uttar Pradesh",
         "weeklyData": [
           {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 19,
-            "rank": 9
-          },
-          {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 61,
+            "startDate": "16-06-2020",
+            "endDate": "22-06-2020",
+            "value": 4231,
             "rank": 4
           },
           {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 213,
-            "rank": 6
-          },
-          {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 178,
-            "rank": 9
-          },
-          {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 693,
-            "rank": 5
-          },
-          {
-            "startDate": "21-04-2020",
-            "endDate": "27-04-2020",
-            "value": 793,
-            "rank": 4
-          },
-          {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 780,
+            "startDate": "23-06-2020",
+            "endDate": "29-06-2020",
+            "value": 4506,
             "rank": 7
           },
           {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 807,
+            "startDate": "30-06-2020",
+            "endDate": "06-07-2020",
+            "value": 5808,
             "rank": 7
           },
           {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 1032,
+            "startDate": "07-07-2020",
+            "endDate": "13-07-2020",
+            "value": 9494,
             "rank": 7
           },
           {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 1892,
-            "rank": 7
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 1864,
+            "startDate": "14-07-2020",
+            "endDate": "20-07-2020",
+            "value": 13030,
             "rank": 6
           }
         ],
         "ratios": [
           {
-            "name": "W6/W5",
-            "value": 3.89
+            "name": "W17/W16",
+            "value": 1.37
           },
           {
-            "name": "W7/W6",
-            "value": 1.14
+            "name": "W16/W15",
+            "value": 1.63 
           },
           {
-            "name": "W8/W7",
-            "value": 0.98
+            "name": "W15/W14",
+            "value": 1.29
           },
           {
-            "name": "W9/W8",
-            "value": 1.03
-          },
-          {
-            "name": "W10/W9",
-            "value": 1.28
-          },
-          {
-            "name": "W11/W10",
-            "value": 1.83
-          },
-          {
-            "name": "W12/W11",
-            "value": 0.98
-          }
-        ]
-      },
-      {
-        "stateName": "West Bengal",
-        "weeklyData": [
-          {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 7,
-            "rank": 12
-          },
-          {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 15,
-            "rank": 14
-          },
-          {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 58,
-            "rank": 13
-          },
-          {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 72,
-            "rank": 14
-          },
-          {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 187,
-            "rank": 10
-          },
-          {
-            "startDate": "21-04-2020",
-            "endDate": "27-04-2020",
-            "value": 310,
-            "rank": 9
-          },
-          {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 610,
-            "rank": 9
-          },
-          {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 804,
-            "rank": 8
-          },
-          {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 761,
-            "rank": 8
-          },
-          {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 992,
-            "rank": 9
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 1956,
-            "rank": 5
-          }
-        ],
-        "ratios": [
-          {
-            "name": "W6/W5",
-            "value": 2.6
-          },
-          {
-            "name": "W7/W6",
-            "value": 1.66
-          },
-          {
-            "name": "W8/W7",
-            "value": 1.97
-          },
-          {
-            "name": "W9/W8",
-            "value": 1.32
-          },
-          {
-            "name": "W10/W9",
-            "value": 0.95
-          },
-          {
-            "name": "W11/W10",
-            "value": 1.30
-          },
-          {
-            "name": "W12/W11",
-            "value": 1.97
-          }
-        ]
-      },
-      {
-        "stateName": "Punjab",
-        "weeklyData": [
-          {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 22,
-            "rank": 7
-          },
-          {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 18,
-            "rank": 12
-          },
-          {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 38,
-            "rank": 15
-          },
-          {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 97,
-            "rank": 12
-          },
-          {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 69,
-            "rank": 13
-          },
-          {
-            "startDate": "21-04-2020",
-            "endDate": "27-04-2020",
-            "value": 85,
-            "rank": 13
-          },
-          {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 902,
-            "rank": 5
-          },
-          {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 645,
-            "rank": 9
-          },
-          {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 103,
-            "rank": 16
-          },
-          {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 101,
-            "rank": 16
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 210,
-            "rank": 17
-          }
-        ],
-        "ratios": [
-          {
-            "name": "W6/W5",
-            "value": 0.71
-          },
-          {
-            "name": "W7/W6",
-            "value": 1.23
-          },
-          {
-            "name": "W8/W7",
-            "value": 10.61
-          },
-          {
-            "name": "W9/W8",
-            "value": 0.72
-          },
-          {
-            "name": "W10/W9",
-            "value": 0.16
-          },
-          {
-            "name": "W11/W10",
-            "value": 0.98
-          },
-          {
-            "name": "W12/W11",
-            "value": 2.08
-          }
-        ]
-      },
-      {
-        "stateName": "Bihar",
-        "weeklyData": [
-          {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": 3,
-            "rank": 15
-          },
-          {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": 12,
-            "rank": 15
-          },
-          {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": 17,
-            "rank": 16
-          },
-          {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": 34,
-            "rank": 16
-          },
-          {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": 47,
-            "rank": 15
-          },
-          {
-            "startDate": "21-04-2020",
-            "endDate": "27-04-2020",
-            "value": 233,
-            "rank": 10
-          },
-          {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 182,
-            "rank": 12
-          },
-           {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 221,
-            "rank": 11
-          },
-          {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 674,
-            "rank": 9
-          },
-          {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 1314,
-            "rank": 8
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 1208,
-            "rank": 10
-          }
-        ],
-        "ratios": [
-          {
-            "name": "W6/W5",
-            "value": 2.38
-          },
-          {
-            "name": "W7/W6",
-            "value": 4.96
-          },
-          {
-            "name": "W8/W7",
-            "value": 0.78
-          },
-          {
-            "name": "W9/W8",
-            "value": 1.21
-          },
-          {
-            "name": "W10/W9",
-            "value": 3.05
-          },
-          {
-            "name": "W11/W10",
-            "value": 1.95
-          },
-          {
-            "name": "W12/W11",
-            "value": 0.92
-          }
-        ]
-      },
-      {
-        "stateName": "Assam",
-        "weeklyData": [
-          {
-            "startDate": "17-03-2020",
-            "endDate": "23-03-2020",
-            "value": null,
-            "rank": null
-          },
-          {
-            "startDate": "24-03-2020",
-            "endDate": "30-03-2020",
-            "value": null,
-            "rank": null
-          },
-          {
-            "startDate": "31-03-2020",
-            "endDate": "6-04-2020",
-            "value": null,
-            "rank": null
-          },
-          {
-            "startDate": "7-04-2020",
-            "endDate": "13-04-2020",
-            "value": null,
-            "rank": null
-          },
-          {
-            "startDate": "14-04-2020",
-            "endDate": "20-04-2020",
-            "value": null,
-            "rank": null
-          },
-          {
-            "startDate": "21-04-2020",
-            "endDate": "27-04-2020",
-            "value": null,
-            "rank": null
-          },
-          {
-            "startDate": "28-04-2020",
-            "endDate": "04-05-2020",
-            "value": 7,
-            "rank": 17
-          },
-           {
-            "startDate": "05-05-2020",
-            "endDate": "11-05-2020",
-            "value": 22,
-            "rank": 16
-          },
-          {
-            "startDate": "12-05-2020",
-            "endDate": "18-05-2020",
-            "value": 51,
-            "rank": 17
-          },
-          {
-            "startDate": "19-05-2020",
-            "endDate": "25-05-2020",
-            "value": 433,
-            "rank": 12
-          },
-          {
-            "startDate": "26-05-2020",
-            "endDate": "01-06-2020",
-            "value": 937,
-            "rank": 13
-          }
-        ],
-        "ratios": [
-          {
-            "name": "W6/W5",
-            "value": null
-          },
-          {
-            "name": "W7/W6",
-            "value": null
-          },
-          {
-            "name": "W8/W7",
-            "value": null
-          },
-          {
-            "name": "W9/W8",
-            "value": 3.14
-          },
-          {
-            "name": "W10/W9",
-            "value": 2.32
-          },
-          {
-            "name": "W11/W10",
-            "value": 8.49
-          },
-          {
-            "name": "W12/W11",
-            "value": 2.16
+            "name": "W14/W13",
+            "value": 1.06
           }
         ]
       }
