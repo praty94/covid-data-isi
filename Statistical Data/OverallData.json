@@ -1,10 +1,10 @@
 {
-    "heading":"<strong>a)</strong> Increase of cases per day may indicate spread of the virus. <strong>b)</strong> Traffic Intensity (Ratio of cases to recovery) > 1 may lead to resource crunch. <strong>c)</strong> Increase of proportion positive with increased testing may indicate quick spread of virus or improper testing. <strong>d)</strong> Measure of spread within a state gives the proportion of districts having more than 100 cases and is an indicator of potential threat. <strong>e)</strong>Increase of death rate (say by over 5%) may be a cause of concern. Continuously falling death rate for 5 or more consecutive weeks (visible from the death rate tab) provides reasonable evidence of real improvement.",
+    "heading":"<strong>a)</strong> Increase of cases per day may indicate spread of the virus. <strong>b)</strong> Traffic Intensity (Ratio of cases to recovery) > 1 may lead to resource crunch. <strong>c)</strong> Increase of proportion positive with increased testing may indicate quick spread of virus or improper testing. <strong>d)</strong> Measure of spread within a state gives the proportion of districts having more than 100 cases(will be redefined) and is an indicator of potential threat. <strong>e)</strong>Increase of death rate (say by over 5%) may be a cause of concern. Continuously falling death rate for 5 or more consecutive weeks (visible from the death rate tab) provides reasonable evidence of real improvement.",
     "data": {
         "headers": [
             " ",
-            "WEEK (19 May-25 May)",
-            "WEEK (26 May-1 June)",
+            "WEEK (07 July-13 July)",
+            "WEEK (14 July-20 July)",
             "Change (%)"
         ],
         "content": {
@@ -12,41 +12,41 @@
                 {
                     "name": "Average number of confirmed cases/day",
                     "values": [
-                        6374,
-                        7632,
-                        19.73
+                        26757,
+                        35324,
+                        32.02
                     ]
                 },
                 {
                     "name": "Cases/recovery (Traffic Intensity)",
                     "values": [
-                        2.08,
-                        1.52,
-                        -26.92
+                        1.42,
+                        1.62,
+                        14.12
                     ]
                 },
                 {
                     "name": "Proportion +ve Test (%)",
                     "values": [
-                        5.68,
-                        7.34,
-                        29.24
+                        11.21,
+                        14.97,
+                        33.55
                     ]
                 },
                 {
                     "name": "Total Tested",
                     "values": [
-                        730799,
-                        803616,
-                        9.96
+                        1836594,
+                        2241652,
+                        22.05
                     ]
                 },
                 {
                     "name": "Death Rate",
                     "values": [
-                        "2.88%",
-                        "2.83%",
-                        -1.74
+                        "2.61%",
+                        "2.43%",
+                        -6.94
                     ]
                 }
             ],
@@ -56,48 +56,48 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                17609,
-                                17346,
-                                -1.49
+                                49645,
+                                58486,
+                                17.81
                             ]
                         },
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                17.76,
-                                18.70,
-                                5.34
+                                24.05,
+                                22.61,
+                                -5.99
                             ]
                         },
                         {
                             "name": "Total Tested",
                             "values": [
-                                96748,
-                                93159,
-                                -3.71
+                                206422,
+                                258674,
+                                25.31
                             ]
                         },
                         {
                             "name": "Death Rate",
                             "values": [
-                                "3.22%",
-                                "3.37%",
-                                "4.66"
+                                "4.02%",
+                                "3.77%",
+                                "-6.04"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                2.4,
-                                1.21,
-                                -49.58
+                                1.67,
+                                1.89,
+                                13.11
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.91,
+                                null,
                                 null
                             ]
                         }
@@ -108,48 +108,48 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                2722,
-                                2749,
-                                0.99
+                                5950,
+                                6631,
+                                11.45
                             ]
                         },
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                7.25,
-                                9.2,
-                                26.83
+                                11.48,
+                                8.42,
+                                -26.67
                             ]
                         },
                         {
                             "name": "Total Tested",
                             "values": [
-                                37537,
-                                29897,
-                                -20.35
+                                51801,
+                                78724,
+                                51.97
                             ]
                         },
                         {
                             "name": "Death Rate",
                             "values": [
-                                "6.14%",
-                                "6.17%",
-                                "0.49"
+                                "4.81%",
+                                "4.38%",
+                                "-8.78"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                1.49,
-                                0.66,
-                                -55.70
+                                1.71,
+                                1.13,
+                                -33.70
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.91,
+                                null,
                                 null
                             ]
                         }
@@ -160,48 +160,48 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                1789,
-                                1800,
-                                0.61
+                                4248,
+                                5454,
+                                28.39
                             ]
                         },
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                2.28,
-                                1.85,
-                                -18.90
+                                2.87,
+                                3.09,
+                                7.67
                             ]
                         },
                         {
                             "name": "Total Tested",
                             "values": [
-                                84360,
-                                97348,
-                                15.40
+                                147683,
+                                176104,
+                                19.24
                             ]
                         },
                         {
                             "name": "Death Rate",
                             "values": [
-                                "2.29%",
-                                "2.19%",
-                                "-4.37"
+                                "2.08%",
+                                "1.87%",
+                                "-10.03"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                2.17,
-                                0.83,
-                                -61.75
+                                1.81,
+                                1.53,
+                                -15.30
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.67,
+                                null,
                                 null
                             ]
                         }
@@ -212,48 +212,48 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                3999,
-                                6781,
-                                69.57
+                                12917,
+                                10007,
+                                -22.53
                             ]
                         },
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                11.51,
-                                15.74,
-                                36.79
+                                9.53,
+                                7.27,
+                                -23.74
                             ]
                         },
                         {
                             "name": "Total Tested",
                             "values": [
-                                34742,
-                                43068,
-                                23.97
+                                135462,
+                                137614,
+                                1.59
                             ]
                         },
                         {
                             "name": "Death Rate",
                             "values": [
-                                "1.96%",
-                                "2.51%",
-                                "28.06"
+                                "3.00%",
+                                "2.96%",
+                                "-1.30"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                1.75,
-                                3.43,
-                                96.00
+                                0.67,
+                                0.74,
+                                9.46
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.50,
+                                null,
                                 null
                             ]
                         }
@@ -264,48 +264,48 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                5322,
-                                6413,
-                                20.50
+                                27820,
+                                32880,
+                                18.19
                             ]
                         },
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                6.36,
-                                7.83,
-                                23.02
+                                10.02,
+                                9.94,
+                                -0.78
                             ]
                         },
                         {
                             "name": "Total Tested",
                             "values": [
-                                83609,
-                                81889,
-                                -2.06
+                                277511,
+                                330571,
+                                19.12
                             ]
                         },
                         {
                             "name": "Death Rate",
                             "values": [
-                                "0.70%",
-                                "0.80%",
-                                "14.29"
+                                "1.42%",
+                                "1.45%",
+                                "2.08"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                1.23,
-                                1.44,
-                                17.07
+                                1.07,
+                                1.13,
+                                5.19
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.83,
+                                null,
                                 null
                             ]
                         }
@@ -316,48 +316,48 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                1892,
-                                1864,
-                                -1.48
+                                9494,
+                                13030,
+                                37.24
                             ]
                         },
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                3.20,
-                                2.99,
-                                -6.47
+                                3.45,
+                                4.04,
+                                17.30
                             ]
                         },
                         {
                             "name": "Total Tested",
                             "values": [
-                                59143,
-                                62281,
-                                5.31
+                                274975,
+                                321738,
+                                17.01
                             ]
                         },
                         {
                             "name": "Death Rate",
                             "values": [
-                                "2.60%",
-                                "2.66%",
-                                "2.31"
+                                "2.50%",
+                                "2.33%",
+                                "-6.97"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                2.16,
-                                1.36,
-                                -37.04
+                                1.86,
+                                1.97,
+                                5.48
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.55,
+                                null,
                                 null
                             ]
                         }
@@ -368,48 +368,48 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                1623,
-                                1424,
-                                -12.26
+                                2923,
+                                5103,
+                                74.58
                             ]
                         },
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                6.14,
-                                4.26,
-                                -30.68
+                                3.18,
+                                4.78,
+                                50.32
                             ]
                         },
                         {
                             "name": "Total Tested",
                             "values": [
-                                26416,
-                                33435,
-                                26.57
+                                91821,
+                                106639,
+                                16.14
                             ]
                         },
                         {
                             "name": "Death Rate",
                             "values": [
-                                "4.39%",
-                                "4.33%",
-                                "-1.37"
+                                "3.65%",
+                                "3.17%",
+                                "-13.07"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                1.43,
-                                0.99,
-                                -30.77
+                                1.79,
+                                2.06,
+                                14.86
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.52,
+                                null,
                                 null
                             ]
                         }
@@ -420,48 +420,48 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                992,
-                                1956,
-                                97.18
+                                8461,
+                                13321,
+                                57.44
                             ]
                         },
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                1.82,
-                                3.00,
-                                64.93
+                                11.21,
+                                14.97,
+                                33.55
                             ]
                         },
                         {
                             "name": "Total Tested",
                             "values": [
-                                54479,
-                                65182,
-                                19.65
+                                75431,
+                                88927,
+                                17.89
                             ]
                         },
                         {
                             "name": "Death Rate",
                             "values": [
-                                "7.29%",
-                                "5.63%",
-                                "-22.77"
+                                "3.04%",
+                                "2.56%",
+                                "-15.72"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                2.43,
-                                2.19,
-                                -9.88
+                                2.13,
+                                1.85,
+                                -13.07
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.83,
+                                null,
                                 null
                             ]
                         }
@@ -472,48 +472,48 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                266,
-                                430,
-                                61.65
+                                2700,
+                                4952,
+                                83.41
                             ]
                         },
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                2.23,
-                                2.21,
-                                -0.85
+                                1.92,
+                                3.81,
+                                98.59
                             ]
                         },
                         {
                             "name": "Total Tested",
                             "values": [
-                                11950,
-                                19440,
-                                62.68
+                                140459,
+                                129718,
+                                -7.65
                             ]
                         },
                         {
                             "name": "Death Rate",
                             "values": [
-                                "0.67%",
-                                "0.75%",
-                                "11.94"
+                                "0.40%",
+                                "0.32%",
+                                "-18.31"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                7.60,
-                                5.66,
-                                -25.53
+                                2.95,
+                                3.65,
+                                23.71
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.45,
+                                null,
                                 null
                             ]
                         }
@@ -524,48 +524,48 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                936,
-                                1226,
-                                30.98
+                                16264,
+                                25839,
+                                58.87
                             ]
                         },
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                1.37,
-                                1.44,
-                                5.11
+                                12.15,
+                                12.84,
+                                5.71
                             ]
                         },
                         {
                             "name": "Total Tested",
                             "values": [
-                                68231,
-                                84922,
-                                24.46
+                                133843,
+                                201155,
+                                50.29
                             ]
                         },
                         {
                             "name": "Death Rate",
                             "values": [
-                                "2.02%",
-                                "1.53%",
-                                "-24.26"
+                                "1.83%",
+                                "2.09%",
+                                "14.27"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                5.35,
-                                1.97,
-                                -63.18
+                                2.84,
+                                3.42,
+                                20.41
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.51,
+                                null,
                                 null
                             ]
                         }
@@ -576,48 +576,48 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                454,
-                                790,
-                                74.01
+                                11084,
+                                22621,
+                                104.09
                             ]
                         },
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                0.59,
-                                0.65,
-                                10.17
+                                7.96,
+                                12.85,
+                                61.45
                             ]
                         },
                         {
                             "name": "Total Tested",
                             "values": [
-                                65795,
-                                68749,
-                                4.49
+                                139244,
+                                176016,
+                                26.41
                             ]
                         },
                         {
                             "name": "Death Rate",
                             "values": [
-                                "1.94%",
-                                "1.74%",
-                                "-10.31"
+                                "1.17%",
+                                "1.30%",
+                                "10.40"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                1.34,
-                                1.64,
-                                22.39
+                                1.47,
+                                2.91,
+                                98.30
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.52,
+                                null,
                                 null
                             ]
                         }
@@ -628,9 +628,9 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                328,
-                                872,
-                                165.85
+                                10488,
+                                10053,
+                                -4.14
                             ]
                         },
                         {
@@ -652,24 +652,24 @@
                         {
                             "name": "Death Rate",
                             "values": [
-                                "2.92%",
-                                "3.15%",
-                                "7.88"
+                                "1.01%",
+                                "0.91%",
+                                "-9.50"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                2.02,
-                                2.67,
-                                32.18
+                                1.18,
+                                0.94,
+                                -19.87
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.86,
+                                null,
                                 null
                             ]
                         }
@@ -680,48 +680,48 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                101,
-                                210,
-                                107.92
+                                1687,
+                                2332,
+                                38.23
                             ]
                         },
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                0.71,
-                                0.92,
-                                29.89
+                                2.88,
+                                3.58,
+                                24.02
                             ]
                         },
                         {
                             "name": "Total Tested",
                             "values": [
-                                14258,
-                                23900,
-                                67.63
+                                58420,
+                                65113,
+                                11.46
                             ]
                         },
                         {
                             "name": "Death Rate",
                             "values": [
-                                "1.92%",
-                                "1.91%",
-                                "-0.52"
+                                "2.49%",
+                                "2.49%",
+                                "0.00"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                0.28,
-                                2.53,
-                                803.57
+                                1.54,
+                                1.52,
+                                -1.47
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.39,
+                                null,
                                 null
                             ]
                         }
@@ -732,48 +732,48 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                1314,
-                                1208,
-                                -8.07
+                                5281,
+                                10034,
+                                90.00
                             ]
                         },
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                6.82,
-                                9.91,
-                                45.29
+                                9.59,
+                                14.44,
+                                50.49
                             ]
                         },
                         {
                             "name": "Total Tested",
                             "values": [
-                                19428,
-                                11666,
-                                -39.95
+                                55033,
+                                69484,
+                                26.26
                             ]
                         },
                         {
                             "name": "Death Rate",
                             "values": [
-                                "0.48%",
-                                "0.58%",
-                                "22.11"
+                                "0.77%",
+                                "0.68%",
+                                "-11.45"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                6.08,
-                                1.2,
-                                -80.26
+                                1.58,
+                                1.94,
+                                23.09
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.91,
+                                null,
                                 null
                             ]
                         }
@@ -784,48 +784,48 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                285,
-                                1143,
-                                301.05
+                                4425,
+                                4929,
+                                11.39
                             ]
                         },
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                1.477,
-                                5.245,
-                                255.11
+                                6.74,
+                                6.49,
+                                -3.76
                             ]
                         },
                         {
                             "name": "Total Tested",
                             "values": [
-                                19289,
-                                21792,
-                                12.98
+                                65567,
+                                75890,
+                                15.74
                             ]
                         },
                         {
                             "name": "Death Rate",
                             "values": [
+                                "1.40%",
                                 "1.32%",
-                                "0.89%",
-                                "-32.58"
+                                "-5.89"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                1.4,
-                                4.52,
-                                222.86
+                                1.34,
+                                1.37,
+                                2.48
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.62,
+                                null,
                                 null
                             ]
                         }
@@ -836,48 +836,48 @@
                         {
                             "name": "Average number of confirmed cases/week",
                             "values": [
-                                410,
-                                379,
-                                -7.56
+                                2152,
+                                3823,
+                                77.65
                             ]
                         },
                         {
                             "name": "Proportion +ve Test(%)",
                             "values": [
-                                1.1,
-                                0.83,
-                                -24.54
+                                4.02,
+                                6.55,
+                                62.92
                             ]
                         },
                         {
                             "name": "Total Tested",
                             "values": [
-                                37267,
-                                45587,
-                                22.32
+                                53491,
+                                58326,
+                                9.04
                             ]
                         },
                         {
                             "name": "Death Rate",
                             "values": [
-                                "1.16%",
-                                "1.38%",
-                                "18.97"
+                                "1.73%",
+                                "1.74%",
+                                "0.34"
                             ]
                         },
                         {
                             "name": "Cases / recovery (Traffic Intensity)",
                             "values": [
-                                2.25,
-                                1.9,
-                                -15.56
+                                2.77,
+                                1.75,
+                                -36.65
                             ]
                         },
                         {
                             "name": "Spread",
                             "values": [
                                 null,
-                                0.41,
+                                null,
                                 null
                             ]
                         }
