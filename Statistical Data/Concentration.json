@@ -1,5 +1,5 @@
 {
-  "heading": " For a particular state it is the proportion of districts having 100 or more cases. Values > 0.5 indicates at least 50% districts may be potentially risky.(This data is updated till 1st june only,definition of concentration will be refined and updated soon.)",
+  "heading": " For a particular state it is the proportion of districts having 100 or more cases. Values > 0.5 indicates at least 50% districts may be potentially risky.(This data is updated till 1st june only,Considering current situation,definition of Spread will be redefined and updated soon.)",
   "data": {
       "headers": [
           "State / UT",
